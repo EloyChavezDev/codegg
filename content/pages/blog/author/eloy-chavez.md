@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Eloy Chavez
 sections: []
 seo:
   title: ''
