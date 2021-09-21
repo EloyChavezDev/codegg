@@ -1,5 +1,5 @@
 ---
-title: habl5 Principios básicos de la comunicación
+title: "\U0001F5E35 Principios básicos de la comunicación"
 subtitle: lorem-ipsum
 date: '2021-09-21'
 categories: []
