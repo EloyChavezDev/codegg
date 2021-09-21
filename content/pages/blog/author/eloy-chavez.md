@@ -40,7 +40,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-    title: 'No pares de '
+    title: Nunca Pares de Aprender
 seo:
   title: Posts by Dianne Ameter
   description: This is the author archive page
