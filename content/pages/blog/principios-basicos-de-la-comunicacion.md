@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Principios básicos de la comunicación
 subtitle: lorem-ipsum
 date: '2021-09-21'
 categories: []
