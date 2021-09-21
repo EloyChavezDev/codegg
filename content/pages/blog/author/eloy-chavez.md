@@ -3,7 +3,10 @@ title: Eloy Chavez
 sections:
   - type: hero_section
     title: Eloy Chavez
-    subtitle: The optional subtitle
+    subtitle: >-
+      Woman astronaut Platzinauta Microphone Speaker en #PlatziConf 2021
+      Eyeglasses MERN Apprentice Books Nunca Paro de Aprender | Alien monster
+      #TwitchPartner Flag of Mexico
     align: center
     padding_top: medium
     padding_bottom: none
