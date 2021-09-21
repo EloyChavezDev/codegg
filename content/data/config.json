@@ -1,7 +1,7 @@
 {
     "title": "CODEGG",
     "path_prefix": "/",
-    "layout_type": "boxed",
+    "layout_type": "full-width",
     "style": "classic",
     "palette": "blue",
     "mode": "dark",
