@@ -37,7 +37,7 @@ sections:
         label: Email
         default_value: Coloca tu email
         is_required: true
-    submit_label: Enviar
+    submit_label: Suscribirse
     padding_top: medium
     padding_bottom: medium
     has_border: true
