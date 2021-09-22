@@ -33,7 +33,7 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8747H3MKNM"></script>
-<script dangerouslySetInnerHTML={{ _html:` window.dataLayer = window.dataLayer || [];
+<script dangerouslySetInnerHTML={{ __html:` window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
