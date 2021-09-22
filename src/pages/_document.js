@@ -34,9 +34,7 @@ export default class MyDocument extends Document {
                 <Head>{this.helmetHeadComponents}</Head>
                 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8747H3MKNM"></script>
-<script>
- 
-</script>
+
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src="/js/plugins.js" />
