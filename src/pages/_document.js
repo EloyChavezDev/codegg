@@ -32,7 +32,6 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
-                <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8747H3MKNM"></script>
 <script dangerouslySetInnerHTML={{ _html:` window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
