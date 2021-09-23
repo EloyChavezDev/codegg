@@ -2,7 +2,7 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: 'Gracias '
+    title: Gracias ❤
     subtitle: "Apreciamos que te interese incubar tu conocimiento al siguiente nivel. Pronto nos pondremos en contacto. Ten un lindo día \U0001F95A"
     actions:
       - label: Regresar al Home
