@@ -94,7 +94,8 @@
             {
                 "label": "Términos y Condiciones",
                 "url": "/terms-conditions",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Privacy Policy",
