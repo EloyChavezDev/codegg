@@ -42,4 +42,4 @@ El mensaje que comunicamos siempre debe aportar algo al receptor, es decir debem
 
 Nosotros no somos dueños del tiempo, por lo que debemos apreciar el tiempo que nos dedican, como tu por ejemplo que lees esto, agradezco el tiempo que me dedicas y espero estos principios te ayuden a comunicar de manera efectiva tu mensaje, también te ahorrará mucho tiempo en la creación de contenido.
 
-**¡Ahora que conoces estos 5 principios básicos, es tu turno! **Crea un post, un video, podcast, no importa el medio, sino el crear un mensaje poderoso que cuente con estos principios que te aseguro te darán un mejor resultado 🤩
+**¡Ahora que conoces estos 5 principios básicos, es tu turno!** Crea un post, un video, podcast, no importa el medio, sino el crear un mensaje poderoso que cuente con estos principios que te aseguro te darán un mejor resultado 🤩
