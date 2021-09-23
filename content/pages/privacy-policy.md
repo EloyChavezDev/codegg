@@ -21,23 +21,94 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
+#### **AVISO DE PRIVACIDAD **
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+Eloy Chávez, mejor conocido como CODEGG, con domicilio en la ciudad Celaya, C.P. 38010, en la entidad de Guanajuato, país México, y portal de internet https://codegg.mx/, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
+####  **¿Para qué fines utilizaremos sus datos personales?**
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+Los datos personales que recabamos de usted, los utilizaremos para las siguientes finalidades que son necesarias para el servicio que solicita:
 
-### Morbi Egestas Ullamcorper Vulputate
+De manera adicional, utilizaremos su información personal para las siguientes finalidades secundarias que no son necesarias para el servicio solicitado, pero que nos permiten y facilitan brindarle una mejor atención:
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+*   Para validar su identidad
 
-### Donec Vitae Tincidunt Erat
+*   Mercadotecnia o publicitaria
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+*   Prospección comercial
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
+En caso de que no desee que sus datos personales sean tratados para estos fines secundarios, desde este momento usted nos puede comunicar lo anterior a través del siguiente mecanismo:
 
-## Aliquam at Velit eu Elit Iaculis Cursus
+Enviar un correo electrónico a soporte@codegg.mx
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+La negativa para el uso de sus datos personales para estas finalidades no podrá ser un motivo para que le neguemos los servicios y productos que solicita o contrata con nosotros.
+
+#### **¿Qué datos personales utilizaremos para estos fines?**
+
+Para llevar a cabo las finalidades descritas en el presente aviso de privacidad, utilizaremos los siguientes datos personales:
+
+*   Datos de identificación
+
+*   Datos de contacto
+
+#### **¿Cómo puede acceder, rectificar o cancelar sus datos personales, u oponerse a su uso?**
+
+Usted tiene derecho a conocer qué datos personales tenemos de usted, para qué los utilizamos y las condiciones del uso que les damos (Acceso). Asimismo, es su derecho solicitar la corrección de su información personal en caso de que esté desactualizada, sea inexacta o incompleta (Rectificación); que la eliminemos de nuestros registros o bases de datos cuando considere que la misma no está siendo utilizada adecuadamente (Cancelación); así como oponerse al uso de sus datos personales para fines específicos (Oposición). Estos derechos se conocen como derechos ARCO.
+
+Para el ejercicio de cualquiera de los derechos ARCO, usted deberá presentar la solicitud respectiva a través del siguiente medio:
+
+Enviar un correo electrónico a soporte@codegg.mx
+
+Para conocer el procedimiento y requisitos para el ejercicio de los derechos ARCO, ponemos a su disposición el siguiente medio:
+
+Enviar un correo electrónico a soporte@codegg.mx
+
+Los datos de contacto de la persona o departamento de datos personales, que está a cargo de dar trámite a las solicitudes de derechos ARCO, son los siguientes:
+
+a) Nombre del departamento de datos personales: Soporte
+
+b) Correo electrónico: soporte@codegg.mx
+
+c) Número telefónico: 4612604785
+
+Usted puede revocar su consentimiento para el uso de sus datos personales
+
+Usted puede revocar el consentimiento que, en su caso, nos haya otorgado para el tratamiento de sus datos personales. Sin embargo, es importante que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando sus datos personales. Asimismo, usted deberá considerar que para ciertos fines, la revocación de su consentimiento implicará que no le podamos seguir prestando el servicio que nos solicitó, o la conclusión de su relación con nosotros.
+
+Para revocar su consentimiento deberá presentar su solicitud a través del siguiente medio:
+
+Enviar un correo electrónico a soporte@codegg.mx
+
+Para conocer el procedimiento y requisitos para la revocación del consentimiento, ponemos a su disposición el siguiente medio:
+
+Enviar un correo electrónico a soporte@codegg.mx
+
+#### **¿Cómo puede limitar el uso o divulgación de su información personal?**
+
+Con objeto de que usted pueda limitar el uso y divulgación de su información personal, le ofrecemos los siguientes medios:
+
+Enviar un correo electrónico a soporte@codegg.mx
+
+El uso de tecnologías de rastreo en nuestro portal de internet
+
+Le informamos que en nuestra página de internet utilizamos cookies, web beacons u otras tecnologías, a través de las cuales es posible monitorear su comportamiento como usuario de internet, así como brindarle un mejor servicio y experiencia al navegar en nuestra página. Los datos personales que recabamos a través de estas tecnologías, los utilizaremos para los siguientes fines:
+
+*   Analíticas de trafico para campañas publicitarias
+
+*   Analíticas de trafico para diseño del sitio
+
+Los datos personales que obtenemos de estas tecnologías de rastreo son los siguientes:
+
+*   Región en la que se encuentra el usuario
+
+*   Tipo de navegador del usuario
+
+*   Tipo de sistema operativo del usuario
+
+*   Páginas web visitadas por un usuario
+
+#### **¿Cómo puede conocer los cambios en este aviso de privacidad?**
+
+El presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas.
+
+Nos comprometemos a mantenerlo informado sobre los cambios que pueda sufrir el presente aviso de privacidad, a través de: <https://codegg.mx/privacy-policy/>.
