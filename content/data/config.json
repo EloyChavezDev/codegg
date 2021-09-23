@@ -96,7 +96,8 @@
                 "url": "/terms-conditions",
                 "style": "link",
                 "has_icon": true,
-                "icon": "arrow-left"
+                "icon": "arrow-left",
+                "icon_position": "right"
             },
             {
                 "label": "Privacy Policy",
