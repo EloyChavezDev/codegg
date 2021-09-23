@@ -1,5 +1,5 @@
 ---
-title: TÉRMINOS DEL SERVICIO
+title: TÉRMINOS Y CONDICIONES
 seo:
   title: Terms and Conditions
   description: This is the terms and conditions page
