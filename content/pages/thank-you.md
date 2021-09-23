@@ -5,7 +5,7 @@ sections:
     title: Gracias ❤
     subtitle: >-
       Thank you for contacting us. We will get back in touch with you soon. Have
-      a great day! Apreciamos que te interese llevar tu vida al siguien
+      a great day! Apreciamos que te interese incubar tu
     actions:
       - label: Regresar al Home
         url: /
