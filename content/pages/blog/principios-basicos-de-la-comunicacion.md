@@ -16,6 +16,7 @@ seo:
 layout: post
 author: content/data/team/dianne-ameter.yaml
 thumb_image: /images/comunicacion.png
+image: /images/comunicacion.png
 ---
 ## Lorem ipsum
 
