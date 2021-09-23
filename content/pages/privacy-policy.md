@@ -21,7 +21,7 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-#### **AVISO DE PRIVACIDAD **
+#### **AVISO DE PRIVACIDAD**
 
 Eloy Chávez, mejor conocido como CODEGG, con domicilio en la ciudad Celaya, C.P. 38010, en la entidad de Guanajuato, país México, y portal de internet https://codegg.mx/, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:
 
