@@ -29,7 +29,7 @@ Al visitar nuestro sitio y/o comprarnos algo, usted interactúa con nuestro "Ser
 
 Las nuevas funciones o herramientas que se agreguen al sitio también estarán sujetas a los Términos del servicio. Puede revisar la versión más reciente de los Términos del servicio en cualquier momento en esta página. Nos reservamos el derecho de actualizar, cambiar o reemplazar cualquier parte de los presentes Términos del servicio mediante la publicación de actualizaciones o cambios en nuestra página web. Es su responsabilidad revisar esta página periódicamente para ver los cambios. Su uso de la página web o el acceso a ella de forma continuada después de la publicación de cualquier cambio constituye la aceptación de dichos cambios.
 
-SECCIÓN 1: TÉRMINOS DE LA TIENDA ONLINE
+### SECCIÓN 1: TÉRMINOS DE LA TIENDA ONLINE
 
 Al aceptar los presentes Términos del servicio, usted declara que tiene la mayoría de edad en su estado o provincia de residencia, o que es mayor de edad en su estado o provincia de residencia y que nos ha dado su consentimiento para permitir que cualquiera de las personas menores que dependen de usted utilice este sitio.
 
