@@ -7,7 +7,7 @@ tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Personas charlando
 image_alt: Personas Charlando
-image_position: right
+image_position: left
 seo:
   title: ''
   description: ''
