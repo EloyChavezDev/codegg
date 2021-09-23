@@ -95,7 +95,8 @@
                 "label": "Términos y Condiciones",
                 "url": "/terms-conditions",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "twitter"
             },
             {
                 "label": "Privacy Policy",
