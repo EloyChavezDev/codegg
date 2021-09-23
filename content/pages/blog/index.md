@@ -7,9 +7,6 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    subtitle: >-
-      Suscríbete para quedes obsoleto y desactualizado, dale un upgrade a tu
-      vida con el contenido mas reciente que publicamos ❤
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
