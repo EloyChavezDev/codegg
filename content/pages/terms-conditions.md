@@ -21,7 +21,7 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
-**GENERALIDADES**
+### **GENERALIDADES**
 
 CODEGG gestiona este sitio web. En todo el sitio, los términos "nosotros", "nos" y "nuestro" se refieren en lo sucesivo a CODEGG. CODEGG ofrece esta página web, incluida toda la información, las herramientas y los servicios que se ponen en este sitio a disposición suya, el usuario, siempre y cuando acepte la totalidad de los términos, condiciones, políticas y avisos contemplados aquí.
 
