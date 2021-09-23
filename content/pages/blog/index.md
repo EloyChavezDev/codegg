@@ -22,7 +22,10 @@ sections:
   - type: form_section
     title: Inline Form
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: >+
+      Suscríbete para quedes obsoleto y desactualizado, dale un upgrade a tu
+      vida con el contenido mas reciente que publicamos ❤
+
     content_align: center
     form_position: bottom
     form_layout: inline
