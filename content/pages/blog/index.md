@@ -37,8 +37,7 @@ sections:
         label: Email
         default_value: Coloca tu email
         is_required: true
-        options:
-          - lorem-ipsum
+        options: []
     submit_label: Subscribirse
     padding_top: medium
     padding_bottom: medium
