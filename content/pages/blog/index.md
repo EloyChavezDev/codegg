@@ -3,9 +3,6 @@ title: Blog
 sections:
   - type: hero_section
     title: ¿Qué Aprenderás Hoy?
-    subtitle: >-
-      Aqui encontraras las Noticias, Tutoriales relevantes del mundo de la
-      tecnología.
     align: center
     padding_top: medium
     padding_bottom: none
