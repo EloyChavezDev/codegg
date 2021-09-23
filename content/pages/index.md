@@ -291,7 +291,6 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: ¿Qué aprenderás hoy?
-    subtitle: Blog Feed Section Example
     actions:
       - label: Ver mas
         url: /blog
