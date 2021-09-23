@@ -96,7 +96,7 @@
                 "url": "/terms-conditions",
                 "style": "link",
                 "has_icon": true,
-                "icon": "twitter"
+                "icon": "arrow-left"
             },
             {
                 "label": "Privacy Policy",
