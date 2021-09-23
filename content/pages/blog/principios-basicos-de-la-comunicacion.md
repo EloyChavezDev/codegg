@@ -5,7 +5,7 @@ date: '2021-09-21'
 categories: []
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Personas charlando
 image_alt: lorem-ipsum
 image_position: top
 seo:
