@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: ¿Qué Aprenderás Hoy?
-    subtitle: Lee
+    subtitle: Aqui encontraras las no
     align: center
     padding_top: medium
     padding_bottom: none
