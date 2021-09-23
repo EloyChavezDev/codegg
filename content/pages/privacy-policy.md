@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Aviso de Privacidad
 seo:
   title: Privacy Policy
   description: This is the privacy policy page
