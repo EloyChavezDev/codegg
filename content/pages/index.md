@@ -293,7 +293,7 @@ sections:
     title: What's New
     subtitle: Blog Feed Section Example
     actions:
-      - label: Ver mas Articulos
+      - label: Ver mas
         url: /blog
         style: primary
     blog_feed_cols: three
