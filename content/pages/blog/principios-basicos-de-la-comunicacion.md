@@ -4,7 +4,9 @@ subtitle: ' Conoce los principios básicos de la comunicación y ponlos en pract
 date: '2021-09-21'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Conoce los principios básicos de la comunicación y ponlos en practica para
+  crear contenido de calidad.
 thumb_image_alt: Personas charlando
 image_alt: Personas Charlando
 image_position: right
