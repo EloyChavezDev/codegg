@@ -95,7 +95,7 @@
                 "label": "Términos y Condiciones",
                 "url": "/terms-conditions",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right"
             },
