@@ -39,7 +39,7 @@ No transmitirá ningún gusano o virus informáticos ni ningún código de natur
 
 El incumplimiento o violación de cualquiera de los Términos dará como resultado la rescisión inmediata de sus Servicios.
 
-SECCIÓN 2: CONDICIONES GENERALES
+#### SECCIÓN 2: CONDICIONES GENERALES
 
 Nos reservamos el derecho de rechazar el servicio a cualquier persona, por cualquier motivo, en cualquier momento.
 
