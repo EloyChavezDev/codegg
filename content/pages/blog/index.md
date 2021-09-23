@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Inline Form
+    title: Nunca Pares de Aprender
     title_align: center
     content: >+
       Suscríbete para quedes obsoleto y desactualizado, dale un upgrade a tu
