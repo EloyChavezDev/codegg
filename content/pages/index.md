@@ -290,7 +290,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: ¿Que aprenderás hoy?
+    title: ¿Qué aprenderás hoy?
     subtitle: Blog Feed Section Example
     actions:
       - label: Ver mas
