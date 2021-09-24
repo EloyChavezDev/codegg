@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: CODEGG
     subtitle: Incubamos tu Negocio
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      La solución completa a todas las áreas de tu negocio, nos 
     actions:
       - label: Try Free
         url: /pricing
