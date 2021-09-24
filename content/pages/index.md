@@ -81,7 +81,6 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Portafolio
-    subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
         title_align: left
