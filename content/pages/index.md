@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: CODEGG
     subtitle: Incubamos tu Negocio
-    content: |
-      La solución completa a todas las áreas de tu negocio, nos 
+    content: >
+      Somos la solución completa a todas las áreas de tu negocio, ya sea desde
+      crear un sitio web,  dar mantenimiento a  equipos o transmitir tu marca en
+      redes sociales, hasta resolver tus problemas contables, legales y mas ❤
     actions:
       - label: Try Free
         url: /pricing
