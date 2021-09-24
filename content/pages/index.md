@@ -276,7 +276,7 @@ sections:
     background_color: secondary
 seo:
   title: CODEGG - Incubamos tus ideas
-  description: The preview of the DIY theme
+  description: 'Hoy en día, sabemos que una página web atractiva NO ES SUFICIENTE'
   extra:
     - name: 'og:type'
       value: website
