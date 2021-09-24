@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: CODEGG
-    subtitle: Incubamos tu Negocio
+    subtitle: "\U0001F95A\U0001F95AIncubamos tu Negocio"
     content: >
       Somos la solución completa a todas las áreas de tu negocio, ya sea desde
       crear un sitio web,  dar mantenimiento a  equipos o transmitir tu marca en
