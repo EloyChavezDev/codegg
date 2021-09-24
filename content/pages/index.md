@@ -80,7 +80,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Port
+    title: Portafolio
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
