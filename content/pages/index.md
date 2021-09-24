@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: CODEGG
-    subtitle: Optional hero section subtitle
+    subtitle: Incubamos tu Ne
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
