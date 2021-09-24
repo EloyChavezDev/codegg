@@ -12,7 +12,7 @@ sections:
       - label: Portafolio
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Contacto
         url: /features
         style: secondary
     image: /images/Portada.png
