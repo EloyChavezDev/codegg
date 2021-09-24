@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: CODEGG
-    subtitle: Incubamos tu Ne
+    subtitle: Incubamos tu Negocio
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
