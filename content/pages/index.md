@@ -275,7 +275,7 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: CODEGG - Incubamos tus ideas
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
