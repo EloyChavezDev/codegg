@@ -93,7 +93,7 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-right
             icon_position: center
