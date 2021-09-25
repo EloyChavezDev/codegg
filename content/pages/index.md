@@ -295,7 +295,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: CODEGG - Incubamos tus ideas
     - name: 'twitter:description'
       value: 'Hoy en día, sabemos que una página web atractiva NO ES SUFICIENTE'
     - name: 'twitter:image'
