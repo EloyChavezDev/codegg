@@ -289,7 +289,7 @@ seo:
       value: The preview of the DIY theme
       keyName: property
     - name: 'og:image'
-      value: /images/logo.png
+      value: /images/codeg.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
