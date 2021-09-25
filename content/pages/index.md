@@ -303,7 +303,10 @@ seo:
     - name: 'twitter:title'
       value: CODEGG - Incubamos tus ideas
     - name: 'twitter:description'
-      value: 'Hoy en día, sabemos que una página web atractiva NO ES SUFICIENTE'
+      value: >-
+        Somos la solución completa a todas las áreas de tu negocio, ya sea desde
+        crear un sitio web, dar mantenimiento a equipos o transmitir tu marca en
+        redes sociales
     - name: 'twitter:image'
       value: /images/codeg.png
       relativeUrl: true
