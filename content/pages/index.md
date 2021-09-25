@@ -286,7 +286,7 @@ seo:
       value: CODEGG - Incubamos tus ideas
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: 'Hoy en día, sabemos que una página web atractiva NO ES SUFICIENTE'
       keyName: property
     - name: 'og:image'
       value: /images/codeg.png
