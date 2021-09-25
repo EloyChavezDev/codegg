@@ -277,7 +277,10 @@ sections:
     background_color: secondary
 seo:
   title: CODEGG - Incubamos tus ideas
-  description: 'Hoy en día, sabemos que una página web atractiva NO ES SUFICIENTE'
+  description: >-
+    Somos la solución completa a todas las áreas de tu negocio, ya sea desde
+    crear un sitio web, dar mantenimiento a equipos o transmitir tu marca en
+    redes sociales
   extra:
     - name: 'og:type'
       value: website
