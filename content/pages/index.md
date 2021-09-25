@@ -297,7 +297,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit DIY Theme
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: 'Hoy en día, sabemos que una página web atractiva NO ES SUFICIENTE'
     - name: 'twitter:image'
       value: /images/codeg.png
       relativeUrl: true
