@@ -81,9 +81,9 @@ sections:
 
           *   Galería de imágenes
 
-          *   Carrito de compras
+          *   Redes Sociales
 
-          *   Redes sociales.
+          *   Blog
 
           *   Entrega de: 9 a 16 días hábiles
         content_align: left
