@@ -2,7 +2,8 @@
 title: "\U0001F5E3 5 Principios básicos de la comunicación"
 subtitle: ' Conoce los principios básicos de la comunicación y ponlos en practica para   crear contenido de calidad.'
 date: '2021-09-21'
-categories: []
+categories:
+  - content/data/categories/category-i10xxxchw.json
 tags:
   - content/data/tags/tag-65lj3zi7y.json
 excerpt: >-
