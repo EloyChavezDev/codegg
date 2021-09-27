@@ -120,6 +120,7 @@ sections:
     align: center
     background_color: secondary
     enable_cards: false
+    subtitle: 'Ellos '
   - type: blog_feed_section
     title: ¿Qué aprenderás hoy?
     actions:
