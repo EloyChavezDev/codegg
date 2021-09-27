@@ -104,7 +104,7 @@ sections:
         style: primary
     grid_items:
       - title: Instituto Americano
-        subtitle: Co-Founder & CEO
+        subtitle: Website
         title_align: center
         image: /images/instituto-americano.png
         image_position: top
