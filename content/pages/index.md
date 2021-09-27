@@ -115,7 +115,7 @@ sections:
   - type: grid_section
     title: Portafolio
     actions:
-      - label: Join the team
+      - label: Ver Portafolio Completo
         url: /style-guide
         style: primary
     grid_items:
