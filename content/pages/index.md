@@ -120,7 +120,7 @@ sections:
     align: center
     background_color: secondary
     enable_cards: false
-    subtitle: Ellos confian en nosotros
+    subtitle: Ellos confían en nosotros
   - type: blog_feed_section
     title: ¿Qué aprenderás hoy?
     actions:
