@@ -114,6 +114,15 @@ sections:
         image: /images/cesal.png
         image_position: top
         actions_align: center
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
     grid_cols: two
     align: center
     background_color: secondary
