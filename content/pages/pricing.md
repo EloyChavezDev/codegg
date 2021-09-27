@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Selecciona tu Plan
-    subtitle: Optional hero section subtitle
+    subtitle: Recuerda puedes contactarnos para realizar un sitio a tu medida
     align: center
     padding_top: large
     padding_bottom: small
