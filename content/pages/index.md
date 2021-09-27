@@ -159,7 +159,7 @@ sections:
   - section_id: FormHome
     title_align: center
     content: >
-      ## **En CODEGG tenemos todo lo necesario para impulsar tu negocio al
+      ### **En CODEGG tenemos todo lo necesario para impulsar tu negocio al
       siguiente nivel**
 
 
