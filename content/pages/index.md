@@ -155,7 +155,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: /images/Marketing-amico.svg
 seo:
   title: CODEGG - Incubamos tus ideas
   description: >-
