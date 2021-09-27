@@ -183,7 +183,7 @@ sections:
       - input_type: tel
         name: FormHome
         options: []
-        is_required: false
+        is_required: true
         default_value: Coloca tu numero telefónico
     submit_label: Solicitar Llamada
     align_vert: top
