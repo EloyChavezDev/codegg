@@ -15,7 +15,7 @@ sections:
         content: |
           ***
 
-          ### $4000
+          ### $ 4000
 
           *   Adaptable a cualquier resolución de dispositivos,
 
