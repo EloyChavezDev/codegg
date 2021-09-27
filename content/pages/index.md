@@ -70,7 +70,7 @@ sections:
         image_has_padding: true
       - title: Mantenimiento preventivo y correctivo
         title_align: left
-        content: "En la mayoría de los casos debido a\_**no dar mantenimiento oportuno a tus computadoras**, impresoras y equipos electrónicos algún día te van a fallar por el\_**calentamiento, virus, desconfiguración**, la no actualización de programas, etc.\n\n"
+        content: "En la mayoría de los casos debido a\_**no dar mantenimiento oportuno a tus computadoras**, impresoras y equipos electrónicos algún día te van a fallar por el\_**calentamiento, virus, desconfiguración**, el no actualizar programas, etc.\n"
         content_align: left
         actions:
           - label: Saber mas
