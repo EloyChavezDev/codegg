@@ -52,14 +52,14 @@ sections:
         image_has_padding: true
       - title: Marketing Digital
         title_align: left
-        content: >+
+        content: >
           Nuestro objetivo con tu negocio es **atraer nuevos clientes, crear
-          relaciones y desarrollar una identidad de marca**.
+          relaciones y desarrollar una identidad de marca memorable **para que
+          nunca te olviden.
 
 
           Dentro de nuestras estrategias están el SEO, Inbound Marketing y el
           Marketing de Contenidos.
-
         content_align: left
         actions:
           - label: Saber mas
