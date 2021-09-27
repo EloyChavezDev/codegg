@@ -54,9 +54,9 @@ sections:
 
           *   Blog
 
-          *   Entrega de: 10 a 15 días hábiles
-
           *   Autoadministrable
+
+          *   Entrega de: 10 a 15 días hábiles
         content_align: left
         actions:
           - label: Start with Premium
