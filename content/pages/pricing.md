@@ -42,8 +42,6 @@ sections:
 
           ### $6900
 
-          per month, billed yearly
-
           *   Adaptable a cualquier resolución de dispositivos
 
           *   5 a 10 secciones,
