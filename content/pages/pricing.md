@@ -30,7 +30,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: poll
+      - title: "\U0001F423\U0001F423"
         subtitle: Optional subtitle
         title_align: left
         content: |-
