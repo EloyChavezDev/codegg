@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: "\U0001F423"
+      - title: "\U0001F423 Express - Estática"
         subtitle: Optional subtitle
         title_align: left
         content: |-
