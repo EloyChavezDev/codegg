@@ -45,7 +45,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Tienda en Línea
+      - title: MARKETING DIGITAL
         title_align: left
         content: >
           Diseño profesional con carrito de compras, catálogo actualizable,
