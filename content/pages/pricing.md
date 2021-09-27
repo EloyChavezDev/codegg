@@ -66,7 +66,7 @@ sections:
         actions_width: full-width
         title: "\U0001F424 Expert"
       - title: "\U0001F413 E-commerce"
-        subtitle: Mantenemos tu negocio las 24hrs. operando
+        subtitle: Mantenemos tu negocio las 24hrs.
         title_align: left
         content: |
           ***
