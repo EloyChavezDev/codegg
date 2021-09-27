@@ -51,7 +51,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        title: "\U0001F424"
+        title: "\U0001F424 Expert"
       - title: "\U0001F413"
         subtitle: Optional subtitle
         title_align: left
