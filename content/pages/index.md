@@ -184,7 +184,7 @@ sections:
         name: FormHome
         options: []
         is_required: false
-        default_value: Coloca tu numero telefonico
+        default_value: Coloca tu numero telefónico
     submit_label: Solicitar Llamada
     align_vert: top
     padding_top: medium
