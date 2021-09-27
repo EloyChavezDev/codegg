@@ -28,10 +28,9 @@ sections:
     grid_items:
       - title: 'Página web '
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Diseño de página web informativa, textos y fotos actualizables,
+          optimización SEO, la mejor opción para comenzar tu presencia online.
         content_align: left
         actions:
           - label: Learn More
