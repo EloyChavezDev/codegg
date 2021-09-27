@@ -61,7 +61,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/ecommerce.png
+        image: /images/ecommerce-development-packages-15d8b12cf4268d.svg
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
