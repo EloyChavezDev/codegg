@@ -156,7 +156,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - section_id: lorem-ipsum
+  - section_id: FormHome
     title: >-
       En CODEGG tenemos todo lo necesario para impulsar tu negocio al siguiente
       nivel
