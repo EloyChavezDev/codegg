@@ -33,9 +33,9 @@ sections:
           existe.**
 
 
-          Diseño de página web informativa o **tienda en línea**, textos y fotos
-          actualizables, **optimización SEO**, la mejor opción para comenzar tu
-          presencia online.
+          Diseñamos desde páginas web informativas o **tiendas en línea**, con
+          textos y fotos actualizables, **optimización SEO**, la mejor opción
+          para comenzar tu presencia online.
         content_align: left
         actions:
           - label: Saber mas
