@@ -35,7 +35,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - subtitle: Optional subtitle
+      - subtitle: L
         title_align: left
         content: |
           ***
