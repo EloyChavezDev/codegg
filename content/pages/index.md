@@ -157,9 +157,6 @@ sections:
     padding_bottom: large
     background_color: secondary
   - section_id: FormHome
-    title: >-
-      En CODEGG tenemos todo lo necesario para impulsar tu negocio al siguiente
-      nivel
     title_align: center
     content: |+
       Estamos a tu disposición para ayudarte en cada paso del proceso.
