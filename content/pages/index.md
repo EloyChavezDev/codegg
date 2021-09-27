@@ -45,7 +45,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: MARKETING DIGITAL
+      - title: Marketing Digital
         title_align: left
         content: >
           Diseño profesional con carrito de compras, catálogo actualizable,
