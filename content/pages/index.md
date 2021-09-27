@@ -29,8 +29,9 @@ sections:
       - title: 'Página web '
         title_align: left
         content: >
-          Diseño de página web informativa, textos y fotos actualizables,
-          optimización SEO, la mejor opción para comenzar tu presencia online.
+          Diseño de página web informativa o tienda en línea, textos y fotos
+          actualizables, optimización SEO, la mejor opción para comenzar tu
+          presencia online.
         content_align: left
         actions:
           - label: Saber mas
