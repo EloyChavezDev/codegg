@@ -73,7 +73,7 @@ sections:
 
           *   Adaptable a cualquier resolución de dispositivos
 
-          *   5 a 12 secciones
+          *   6 a 12 secciones
 
           *   3 Formularios de contacto
 
