@@ -33,7 +33,7 @@ sections:
           optimización SEO, la mejor opción para comenzar tu presencia online.
         content_align: left
         actions:
-          - label: Learn More
+          - label: SAber mas
             url: /style-guide
             style: primary
             has_icon: false
