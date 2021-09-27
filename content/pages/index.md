@@ -29,6 +29,7 @@ sections:
       - title: 'Página web '
         title_align: left
         content: >
+          En la actualidad si tu negocio no cuenta con una página web no existe.
           Diseño de página web informativa o tienda en línea, textos y fotos
           actualizables, optimización SEO, la mejor opción para comenzar tu
           presencia online.
