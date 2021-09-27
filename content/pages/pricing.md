@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Websites
 sections:
   - type: hero_section
     title: Selecciona tu Plan
