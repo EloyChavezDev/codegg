@@ -52,11 +52,12 @@ sections:
         image_has_padding: true
       - title: Marketing Digital
         title_align: left
-        content: >
-          Diseño profesional con carrito de compras, catálogo actualizable,
-          integración de pasarela de pagos con tarjeta de crédito, debito y
-          hasta cryptomonedas, la mejor opción para comenzar a digitalizar su
-          negocio.
+        content: >+
+          Nuestro objetivo con tu negocio es **atraer nuevos clientes, crear
+          relaciones y desarrollar una identidad de marca**. Dentro de nuestras
+          estrategias están el SEO, Inbound Marketing y el Marketing de
+          Contenidos.
+
         content_align: left
         actions:
           - label: Saber mas
