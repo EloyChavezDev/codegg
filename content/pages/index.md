@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Portafolio
+    title: Nuestros servicios
     grid_items:
       - title: 'Página web '
         title_align: left
