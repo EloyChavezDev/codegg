@@ -35,7 +35,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - subtitle: La opcion mas popular
+      - subtitle: La opción mas popular
         title_align: left
         content: |
           ***
