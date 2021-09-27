@@ -109,7 +109,7 @@ sections:
         image: /images/instituto-americano.png
         image_position: top
       - title: Centro de Educación Superior de América Latina
-        subtitle: Software Engineer
+        subtitle: 'Sitio Web '
         title_align: center
         image: /images/cesal.png
         image_position: top
