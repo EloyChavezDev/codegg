@@ -160,7 +160,6 @@ sections:
     title: >-
       En CODEGG tenemos todo lo necesario para impulsar tu negocio al siguiente
       nivel
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
