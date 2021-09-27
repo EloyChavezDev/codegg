@@ -113,6 +113,7 @@ sections:
         title_align: center
         image: /images/cesal.png
         image_position: top
+        actions_align: center
     grid_cols: two
     align: center
     background_color: secondary
