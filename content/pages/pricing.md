@@ -27,7 +27,7 @@ sections:
 
           *   Redes sociales.
 
-          *   Entrega de: 4 a 5 días hábiles
+          *   Entrega de: 5 a 10 días hábiles
         content_align: left
         actions:
           - label: Start with Personal
