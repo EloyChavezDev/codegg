@@ -76,7 +76,7 @@ sections:
         image_has_padding: true
       - title: Mantenimiento preventivo y correctivo
         title_align: left
-        content: "En la mayoría de los casos debido a\_**no dar mantenimiento oportuno a tus computadoras**, ocasionan fallos por\_**calentamiento, virus** entre otros. Evita estos problemas con una póliza de mantenimiento.\n"
+        content: "En la mayoría de los casos debido a\_**no dar mantenimiento oportuno a tus computadoras**, ocasionan fallos por\_**calentamiento, virus** entre otros. \n\nEvita estos problemas con una póliza de mantenimiento.\n"
         content_align: left
         actions:
           - label: Saber mas
