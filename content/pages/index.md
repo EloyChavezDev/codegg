@@ -47,10 +47,11 @@ sections:
         image_has_padding: true
       - title: Tienda en Línea
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Diseño profesional con carrito de compras, catálogo actualizable,
+          integración de pasarela de pagos con tarjeta de crédito, debito y
+          hasta cryptomonedas, la mejor opción para comenzar a digitalizar su
+          negocio.
         content_align: left
         actions:
           - label: Learn More
