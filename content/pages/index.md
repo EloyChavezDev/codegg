@@ -184,6 +184,7 @@ sections:
         name: FormHome
         options: []
         is_required: false
+        default_value: Coloca tu numero
     submit_label: Solicitar Llamada
     align_vert: top
     padding_top: medium
