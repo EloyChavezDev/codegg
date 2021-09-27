@@ -85,6 +85,10 @@ sections:
 
           *   Blog
 
+          *   Autoadministrable
+
+          *   Carrito de compras
+
           *   Entrega de: 9 a 16 días hábiles
         content_align: left
         actions:
