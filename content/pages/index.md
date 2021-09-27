@@ -103,7 +103,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: Instituto Americano
         subtitle: Co-Founder & CEO
         title_align: center
         image: /images/instituto-americano.png
