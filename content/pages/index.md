@@ -182,7 +182,6 @@ sections:
     form_fields:
       - input_type: tel
         name: FormHome
-        default_value: Coloca tu numer
         options: []
         is_required: false
     submit_label: Solicitar Llamada
