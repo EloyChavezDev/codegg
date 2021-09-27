@@ -161,17 +161,9 @@ sections:
       En CODEGG tenemos todo lo necesario para impulsar tu negocio al siguiente
       nivel
     title_align: center
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      Estamos a tu disposición para ayudarte en cada paso del proceso.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     content_align: center
     form_position: bottom
     form_width: fifty
