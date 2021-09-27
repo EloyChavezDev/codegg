@@ -12,16 +12,22 @@ sections:
       - title: "\U0001F423 Express"
         subtitle: Optional subtitle
         title_align: left
-        content: >+
+        content: |
           ***
 
+          ### $4000
 
-          ### $4000 
+          *   Adaptable a cualquier resolución de dispositivos,
 
+          *   5 secciones
 
-          *   *   5 secciones*   Formulario de contacto*   Galería de
-          imágenes*   Redes sociales.*   Entrega de: 5 a 10 días hábiles
+          *   Formulario de contacto
 
+          *   Galería de imágenes
+
+          *   Redes sociales.
+
+          *   Entrega de: 4 a 5 días hábiles
         content_align: left
         actions:
           - label: Start with Personal
