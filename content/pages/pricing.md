@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: "\U0001F423 Express"
-        subtitle: Optional subtitle
+        subtitle: Ideal para iniciar
         title_align: left
         content: |
           ***
