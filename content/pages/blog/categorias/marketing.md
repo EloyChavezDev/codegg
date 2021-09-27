@@ -2,7 +2,7 @@
 title: Marketing
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Marketing
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
