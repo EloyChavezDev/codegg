@@ -106,7 +106,7 @@ sections:
     has_border: false
     background_color: none
   - type: grid_section
-    title: 'Tu preguntas, Nosotros Respondemos! '
+    title: "Tu preguntas, Nosotros Respondemos! \U0001F468\U0001F3FB‍\U0001F4BB"
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
