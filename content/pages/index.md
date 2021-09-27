@@ -108,7 +108,7 @@ sections:
         title_align: center
         image: /images/instituto-americano.png
         image_position: top
-      - title: Dianne Ameter
+      - title: CESAL
         subtitle: Software Engineer
         title_align: center
         image: /images/cesal.png
