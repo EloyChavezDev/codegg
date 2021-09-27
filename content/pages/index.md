@@ -143,7 +143,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: En CODEGG tenemos todo lo necesario pa
+    title: En CODEGG tenemos todo lo necesario para
     content: |
       Estamos a tu disposición para ayudarte en cada paso del proceso.
     actions:
