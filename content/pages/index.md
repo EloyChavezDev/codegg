@@ -77,7 +77,7 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: center
