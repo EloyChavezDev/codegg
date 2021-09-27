@@ -52,7 +52,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: "\U0001F424 Expert"
-      - title: "\U0001F413 e-commerce"
+      - title: "\U0001F413 E-commerce"
         subtitle: Optional subtitle
         title_align: left
         content: |-
