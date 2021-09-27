@@ -104,7 +104,7 @@ sections:
         style: primary
     grid_items:
       - title: Instituto Americano
-        subtitle: 'Sitio WEB autoadministrable,'
+        subtitle: Sitio WEB autoadministrable
         title_align: center
         image: /images/instituto-americano.png
         image_position: top
