@@ -66,7 +66,7 @@ sections:
         actions_width: full-width
         title: "\U0001F424 Expert"
       - title: "\U0001F413 E-commerce"
-        subtitle: Optional subtitle
+        subtitle: 'Gana $ '
         title_align: left
         content: |
           ***
