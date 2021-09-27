@@ -6,6 +6,7 @@ categories:
   - content/data/categories/category-i10xxxchw.json
 tags:
   - content/data/tags/tag-65lj3zi7y.json
+  - content/data/tags/tag-eirx4bgyl.json
 excerpt: >-
   Conoce los principios básicos de la comunicación y ponlos en practica para
   crear contenido de calidad.
