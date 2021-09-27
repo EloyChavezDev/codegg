@@ -54,7 +54,7 @@ sections:
         title_align: left
         content: >
           Nuestro objetivo con tu negocio es **atraer nuevos clientes, crear
-          relaciones y desarrollar una identidad de marca memorable **para que
+          relaciones y desarrollar una identidad de marca memorable** para que
           nunca te olviden.
 
 
