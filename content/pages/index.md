@@ -61,7 +61,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/Add to Cart-amico.png
+        image: /images/Add to Cart-amico.svg
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
