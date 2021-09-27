@@ -24,6 +24,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    tag: content/data/tags/tag-65lj3zi7y.json
 seo:
   title: ''
   description: ''
