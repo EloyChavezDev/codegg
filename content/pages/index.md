@@ -113,11 +113,6 @@ sections:
         title_align: center
         image: /images/cesal.png
         image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
     grid_cols: three
     align: center
     background_color: secondary
