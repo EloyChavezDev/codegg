@@ -50,7 +50,9 @@ sections:
 
           *   Galería de imágenes
 
-          *   Redes sociales y blog.
+          *   Redes sociales.
+
+          *   Blog
 
           *   Entrega de: 10 a 15 días hábiles
 
