@@ -66,7 +66,7 @@ sections:
         actions_width: full-width
         title: "\U0001F424 Expert"
       - title: "\U0001F413 E-commerce"
-        subtitle: 'Tu '
+        subtitle: Tu Negocio 24/7 operando
         title_align: left
         content: |
           ***
