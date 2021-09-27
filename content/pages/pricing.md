@@ -35,7 +35,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - subtitle: La mejor opcion para impulsar tu negocio
+      - subtitle: La mejor opción para impulsar tu negocio
         title_align: left
         content: |
           ***
