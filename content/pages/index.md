@@ -75,7 +75,7 @@ sections:
           euismod lacinia.
         content_align: left
         actions:
-          - label: Learn More
+          - label: Saber mas
             url: /style-guide
             style: primary
             has_icon: true
