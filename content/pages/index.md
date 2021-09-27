@@ -40,7 +40,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/comunicacion.png
+        image: /images/Daco_6003172.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
