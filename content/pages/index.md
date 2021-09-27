@@ -173,7 +173,7 @@ sections:
 
       - dolor sit amet
     content_align: center
-    form_position: bottom
+    form_position: left
     form_width: fifty
     form_layout: stacked
     enable_card: false
