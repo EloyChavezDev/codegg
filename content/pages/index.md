@@ -26,7 +26,7 @@ sections:
   - type: grid_section
     title: Portafolio
     grid_items:
-      - title: Section Item 1
+      - title: 'Página web '
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
