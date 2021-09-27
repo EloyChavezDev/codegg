@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: "\U0001F95A"
+      - title: pol
         subtitle: Optional subtitle
         title_align: left
         content: |-
