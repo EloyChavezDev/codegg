@@ -51,6 +51,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+        title: poll
       - title: Business
         subtitle: Optional subtitle
         title_align: left
