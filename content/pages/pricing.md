@@ -66,18 +66,24 @@ sections:
       - title: "\U0001F413 E-commerce"
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### $ 14,999
 
-          per month, billed yearly
+          *   Adaptable a cualquier resolución de dispositivos
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   5 a 12 secciones
+
+          *   3 Formularios de contacto
+
+          *   Galería de imágenes
+
+          *   Carrito de compras
+
+          *   Redes sociales.
+
+          *   Entrega de: 9 a 16 días hábiles
         content_align: left
         actions:
           - label: Start with Business
