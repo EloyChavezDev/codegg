@@ -33,9 +33,9 @@ sections:
           existe.**
 
 
-          Diseñamos desde páginas web informativas o **tiendas en línea**, con
-          textos y fotos actualizables, **optimización SEO**, somos la mejor
-          opción para comenzar tu presencia online.
+          Diseñamos desde páginas web informativas o **tiendas en línea**, todos
+          cuentan con **optimización SEO**, somos la mejor opción para comenzar
+          tu presencia online.
         content_align: left
         actions:
           - label: Saber mas
