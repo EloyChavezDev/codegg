@@ -81,7 +81,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/website-design.png
+        image: /images/Bug fixing-amico.svg
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
