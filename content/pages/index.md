@@ -166,7 +166,7 @@ sections:
       Estamos a tu disposición para ayudarte en cada paso del proceso.
     content_align: center
     form_position: bottom
-    form_width: fifty
+    form_width: fourty
     form_layout: stacked
     enable_card: false
     form_id: FormHome
