@@ -147,7 +147,7 @@ sections:
     content: |
       Estamos a tu disposición para ayudarte en cada paso del proceso.
     actions:
-      - label: Empieza ahora
+      - label: Comienza ahora
         url: /pricing
         style: primary
     actions_position: bottom
