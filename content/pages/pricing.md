@@ -52,7 +52,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: "\U0001F424"
-      - title: Business
+      - title: gall
         subtitle: Optional subtitle
         title_align: left
         content: |-
