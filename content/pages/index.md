@@ -154,7 +154,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: secondary
 seo:
   title: CODEGG - Incubamos tus ideas
   description: >-
