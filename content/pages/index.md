@@ -143,7 +143,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: En CODEGG tenemos todo lo necesaio pa
     content: |
       Estamos a tu disposición para ayudarte en cada paso del proceso.
     actions:
