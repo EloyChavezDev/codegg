@@ -48,7 +48,7 @@ sections:
 
           *   2 formularios de contacto
 
-          *   galería de imágenes
+          *   Galería de imágenes
 
           *   Redes sociales y blog.
 
