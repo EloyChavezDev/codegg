@@ -141,21 +141,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: >-
-      En CODEGG tenemos todo lo necesario para impulsar tu negocio al siguiente
-      nivel
-    content: |
-      Estamos a tu disposición para ayudarte en cada paso del proceso.
-    actions:
-      - label: Comienza ahora
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - section_id: FormHome
     title_align: center
     content: >
