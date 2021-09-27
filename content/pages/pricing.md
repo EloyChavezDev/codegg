@@ -37,18 +37,26 @@ sections:
         actions_width: full-width
       - subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### $6900
 
           per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Adaptable a cualquier resolución de dispositivos
+
+          *   5 a 10 secciones,
+
+          *   2 formularios de contacto
+
+          *   galería de imágenes
+
+          *   Redes sociales y blog.
+
+          *   Entrega de: 10 a 15 días hábiles
+
+          *   Autoadministrable
         content_align: left
         actions:
           - label: Start with Premium
