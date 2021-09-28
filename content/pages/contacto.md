@@ -39,7 +39,7 @@ sections:
         default_value: Coloque su nombre
         is_required: true
       - input_type: number
-        name: lorem-ipsum
+        name: 'Telefono:'
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
