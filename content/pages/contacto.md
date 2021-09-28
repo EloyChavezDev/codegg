@@ -50,7 +50,7 @@ sections:
         options:
           - Sopote
           - Crear mi sitio web
-          - Other
+          - Marketing Digital
       - input_type: textarea
         name: message
         label: Mensaje
