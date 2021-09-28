@@ -56,16 +56,21 @@ sections:
       - title: "\U0001F413 Premium"
         subtitle: Mantenemos tu negocio las 24hrs.
         title_align: left
-        content: >
+        content: |+
           ***
 
+          ### $ 2999
 
-          ### $ 3,000
+          *   15 Publicaciones durante un mes en Facebook
 
+          *   15 Publicaciones al mes en Twitter o Instagram
 
-          *   *   15 Publicaciones al mes en Twitter.*   15 Publicaciones al mes
-          en otra red social de tu preferencia.*   Alta en Directorios*   2
-          Entrada al blog mensual (en caso de contar)
+          *   15 Publicaciones al mes en otra red social de tu preferencia.
+
+          *   Alta en Directorios
+
+          *   2 Entrada al blog mensual
+
         content_align: left
         actions:
           - label: Start with Business
