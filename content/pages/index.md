@@ -39,7 +39,7 @@ sections:
         content_align: left
         actions:
           - label: Saber mas
-            url: /style-guide
+            url: /pricing
             style: primary
             has_icon: false
             icon: arrow-right
