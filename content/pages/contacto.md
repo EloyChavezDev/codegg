@@ -36,7 +36,7 @@ sections:
       - input_type: text
         name: Nombre
         label: Nombre
-        default_value: Your name
+        default_value: Coloque su nombre
         is_required: true
       - input_type: email
         name: email
