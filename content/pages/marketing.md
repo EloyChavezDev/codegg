@@ -15,7 +15,7 @@ sections:
         content: |
           ***
 
-          ### $ 850
+          ### $ 899
 
           *   4 Publicaciones al mes en Facebook
 
