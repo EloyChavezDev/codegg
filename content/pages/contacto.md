@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Se parte de un caso de éxito en Internet
-    subtitle: Comience hoy mismo a incubar su idea
+    subtitle: "Comience hoy mismo a incubar su idea \U0001F95A"
     align: center
     padding_top: medium
     padding_bottom: medium
