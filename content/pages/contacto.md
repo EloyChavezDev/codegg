@@ -9,14 +9,18 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
+    content: >
       ## Billing
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      Estamos seguros de poder ofrecerle una solución integral y al alcance de
+      su presupuesto.
+
+
+
 
       ## Privacy
+
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
