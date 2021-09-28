@@ -29,8 +29,6 @@ sections:
       #### ![](/images/Telegram.png) **Telegram**
 
 
-
-
       #### **Aviso de Privacidad**
 
 
