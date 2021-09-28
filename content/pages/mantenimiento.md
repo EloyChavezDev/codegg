@@ -2,7 +2,7 @@
 title: Marketing
 sections:
   - type: hero_section
-    title: Selecciona tu Plan
+    title: Selecciona tu Mantenimiento
     subtitle: Recuerda puedes contactarnos para realizar un plan a tu medida
     align: center
     padding_top: large
