@@ -83,6 +83,8 @@ sections:
 
           *   Limpieza de software malintencionado.
 
+          *   Respaldo del sistema operativo
+
           *   Limpieza de hardware.
 
           *   Revisión del hardware.
