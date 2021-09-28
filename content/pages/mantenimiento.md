@@ -58,7 +58,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-        title: "\U0001F424\_Pro"
+        title: "\U0001F424 Correctivo"
       - title: "\U0001F413 Premium"
         subtitle: Mantenemos tu negocio las 24hrs.
         title_align: left
