@@ -56,7 +56,7 @@ sections:
       - title: "\U0001F413 Premium"
         subtitle: Mantenemos tu negocio las 24hrs.
         title_align: left
-        content: |+
+        content: |
           ***
 
           ### $ 2999
@@ -67,10 +67,11 @@ sections:
 
           *   15 Publicaciones al mes en otra red social de tu preferencia.
 
+          *   Compartir con mas de 10,000 personas
+
           *   Alta en Directorios
 
           *   2 Entrada al blog mensual
-
         content_align: left
         actions:
           - label: Start with Business
