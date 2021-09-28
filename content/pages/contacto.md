@@ -54,7 +54,7 @@ sections:
       - input_type: textarea
         name: message
         label: Mensaje
-        default_value: "Cuentanos un poco mas sobre el asunto \U0001F600"
+        default_value: "Cuéntanos un poco mas sobre el asunto \U0001F600"
       - input_type: checkbox
         name: consent
         label: >-
