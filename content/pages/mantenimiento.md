@@ -32,7 +32,7 @@ sections:
           *   Costo por Hora
         content_align: left
         actions:
-          - label: Contratar Starter
+          - label: Contratar Preventivo
             url: /contacto
             style: primary
         actions_align: left
