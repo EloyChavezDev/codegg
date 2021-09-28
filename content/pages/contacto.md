@@ -20,10 +20,11 @@ sections:
       Solo da click sobre el medio por el cual deseas contactarnos.
 
 
-      ##### ![](/images/Phone_Blue.png)**Llamada Telefónica**
+      ##### ![](/images/Phone_Blue.png)** Llamada Telefónica**
 
 
-      ##### ![](/images/Whatsapp.png) **Whatssapp**
+      ##### [![](/images/Whatsapp.png)
+      **Whatssapp**](https://wa.me/524612604785)
 
 
       ##### ![](/images/Telegram.png) **Telegram**
