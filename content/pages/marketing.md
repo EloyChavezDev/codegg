@@ -15,7 +15,7 @@ sections:
         content: |
           ***
 
-          ### $ 899
+          ### $ 899 MXN
 
           *   4 Publicaciones al mes en Facebook
 
