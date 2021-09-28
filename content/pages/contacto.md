@@ -10,7 +10,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ### **Contáctanos Directamente**
+      ## **Contáctanos Directamente**
 
 
       Estamos seguros de poder ofrecerle una solución integral y al alcance de
@@ -26,12 +26,11 @@ sections:
       **Telegram**: Solo da clic aquí.
 
 
-      ## Privacy
+      ## **Política de Privacidad**
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Te recordamos que puedes consultar nuestra política de privacidad así como
+      nuestros
     content_align: left
     form_position: right
     form_width: fifty
