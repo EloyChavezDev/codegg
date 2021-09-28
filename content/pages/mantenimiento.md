@@ -48,7 +48,7 @@ sections:
 
           *   Limpieza de software malintencionado.
 
-          *
+          *   Respaldo del sistema operativo
 
           *   Limpieza de hardware
 
@@ -56,7 +56,7 @@ sections:
 
           *   Nueva pasta térmica
 
-          *   Recogemos su equipo en su domicilio
+          *   Recogemos el equipo en su domicilio
 
           *   1 Equipo
 
