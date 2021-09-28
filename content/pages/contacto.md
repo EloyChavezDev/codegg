@@ -26,13 +26,11 @@ sections:
       **Telegram**: Solo da clic aquí.
 
 
-
-
       ## **Aviso de Privacidad**
 
 
       Te recordamos que puedes consultar nuestra política de privacidad así como
-      nuestros Términos y Condiciones publicados.
+      nuestros Términos y Condiciones.
     content_align: left
     form_position: right
     form_width: fifty
