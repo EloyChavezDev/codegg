@@ -70,7 +70,7 @@ sections:
         actions_width: full-width
         title: "\U0001F424 Correctivo"
       - title: "\U0001F413 Rooster"
-        subtitle: Mantenemos tu negocio las 24hrs.
+        subtitle: Servicio completo para 3 equipos
         title_align: left
         content: |
           ***
