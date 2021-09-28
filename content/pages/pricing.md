@@ -92,7 +92,7 @@ sections:
           *   Entrega de: 9 a 16 días hábiles
         content_align: left
         actions:
-          - label: 'Contratar '
+          - label: Contratar E-Commerce
             url: /features
             style: primary
         actions_align: left
