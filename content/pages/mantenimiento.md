@@ -100,7 +100,7 @@ sections:
           *   Entrega de 4 a 6 días hábiles.
         content_align: left
         actions:
-          - label: Contratar Premium
+          - label: Contratar Rooster
             url: /contacto
             style: primary
         actions_align: left
