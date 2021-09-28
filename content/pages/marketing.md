@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: "\U0001F423 Express"
+      - title: "\U0001F423\_Starter"
         subtitle: Ideal para iniciar
         title_align: left
         content: |
