@@ -60,7 +60,7 @@ sections:
         content_align: left
         actions:
           - label: Contratar Expert
-            url: /features
+            url: /contacto
             style: primary
         actions_align: left
         actions_width: full-width
