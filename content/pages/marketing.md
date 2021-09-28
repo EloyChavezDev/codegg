@@ -31,26 +31,19 @@ sections:
         actions_width: full-width
       - subtitle: La mejor opción para impulsar tu negocio
         title_align: left
-        content: |
+        content: |+
           ***
 
-          ### $ 6,999
+          ### $ 1,300
 
-          *   Adaptable a cualquier resolución de dispositivos
+          *   15 Publicaciones al mes en Facebook.
 
-          *   5 a 10 secciones
+          *   8 Publicaciones al mes en Twitter o Instagram.
 
-          *   2 formularios de contacto
+          *   8 Publicaciones al mes en otra red social de tu preferencia.
 
-          *   Galería de imágenes
+          *   Alta en Directorios
 
-          *   Redes sociales.
-
-          *   Blog
-
-          *   Autoadministrable
-
-          *   Entrega de: 10 a 15 días hábiles
         content_align: left
         actions:
           - label: Start with Premium
