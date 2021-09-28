@@ -80,7 +80,7 @@ sections:
         content_align: left
         actions:
           - label: Saber mas
-            url: /style-guide
+            url: /mantenimiento
             style: primary
             has_icon: false
             icon: arrow-right
