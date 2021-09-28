@@ -65,7 +65,7 @@ sections:
         content: |
           ***
 
-          ### $ 2,999 MXN
+          ### $ 3,999 MXN
 
           *   15 Publicaciones durante un mes en Facebook
 
