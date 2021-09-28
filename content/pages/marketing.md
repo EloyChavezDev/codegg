@@ -56,28 +56,16 @@ sections:
       - title: "\U0001F413 Premium"
         subtitle: Mantenemos tu negocio las 24hrs.
         title_align: left
-        content: |
+        content: >
           ***
 
-          ### $ 14,999
 
-          *   Adaptable a cualquier resolución de dispositivos
+          ### $ 3,000
 
-          *   6 a 12 secciones
 
-          *   3 Formularios de contacto
-
-          *   Galería de imágenes
-
-          *   Redes Sociales
-
-          *   Blog
-
-          *   Autoadministrable
-
-          *   Carrito de compras
-
-          *   Entrega de: 9 a 16 días hábiles
+          *   *   15 Publicaciones al mes en Twitter.*   15 Publicaciones al mes
+          en otra red social de tu preferencia.*   Alta en Directorios*   2
+          Entrada al blog mensual (en caso de contar)
         content_align: left
         actions:
           - label: Start with Business
