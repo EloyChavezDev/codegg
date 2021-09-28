@@ -24,7 +24,7 @@ sections:
           *   Compartir con mas de 10,000 personas
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Contratar Starter
             url: /features
             style: primary
         actions_align: left
