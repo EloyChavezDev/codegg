@@ -77,17 +77,23 @@ sections:
 
           ### $ 3,999 MXN
 
-          *   15 Publicaciones durante un mes en Facebook
+          *   Optimización del sistema.
 
-          *   15 Publicaciones al mes en Twitter o Instagram
+          *   Instalación de programas con licencia.
 
-          *   15 Publicaciones al mes en otra red social de tu preferencia.
+          *   Limpieza de software malintencionado.
 
-          *   Compartir con mas de 10,000 personas
+          *   Limpieza de hardware.
 
-          *   Alta en Directorios
+          *   Revisión del hardware.
 
-          *   2 Entrada al blog mensual
+          *   Nueva pasta térmica.
+
+          *   Respaldo del sistema operativo.
+
+          *   3 Equipos.
+
+          *   Entrega de 4 a 6 días hábiles.
         content_align: left
         actions:
           - label: Contratar Premium
