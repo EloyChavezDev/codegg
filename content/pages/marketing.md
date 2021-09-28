@@ -34,7 +34,7 @@ sections:
         content: |
           ***
 
-          ### $ 1,300
+          ### $ 1,299
 
           *   15 Publicaciones al mes en Facebook.
 
