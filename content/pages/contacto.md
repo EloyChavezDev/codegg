@@ -20,10 +20,18 @@ sections:
       Solo da click sobre el medio por el cual deseas contactarnos.
 
 
-      ![](/images/Whatsapp.png)
+      #### ![](/images/Phone_Blue.png)** Llamada Telefónica**
 
 
-      ## **Aviso de Privacidad**
+      #### ![](/images/Whatsapp.png) **Whatssapp**
+
+
+      #### ![](/images/Telegram.png) **Telegram**
+
+
+
+
+      #### **Aviso de Privacidad**
 
 
       Te recordamos que puedes consultar nuestra política de privacidad así como
