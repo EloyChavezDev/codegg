@@ -26,16 +26,13 @@ sections:
       ##### ![](/images/Whatsapp.png) **Whatssapp**
 
 
-      ##### ****![](/images/Telegram.png)**  Telegram**
-
-
-      ***
-
-
-      ***
+      ##### ![](/images/Telegram.png)**  Telegram**
 
 
       #### ****
+
+
+      ****
 
 
       ****
