@@ -13,7 +13,7 @@ sections:
         url: /pricing
         style: primary
       - label: Contacto
-        url: /features
+        url: /contacto
         style: secondary
     image: /images/Portada.png
     image_alt: Hero section placeholder image
