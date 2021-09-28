@@ -59,7 +59,7 @@ sections:
           *   Entrega de: 10 a 15 días hábiles
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Contratar Expert
             url: /features
             style: primary
         actions_align: left
