@@ -71,7 +71,7 @@ sections:
         content: |
           ***
 
-          ### $ 14,999
+          ### $ 14,999 MXN
 
           *   Adaptable a cualquier resolución de dispositivos
 
