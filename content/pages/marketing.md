@@ -47,7 +47,7 @@ sections:
           *   Alta en Directorios
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Contratar Pro
             url: /features
             style: primary
         actions_align: left
