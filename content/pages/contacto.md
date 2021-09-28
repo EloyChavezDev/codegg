@@ -19,7 +19,9 @@ sections:
 
       Solo da click en el icono del medio por el cual deseas contactarnos.
 
-        
+
+      ![](/images/Whatsapp.ico)
+
 
       ## **Aviso de Privacidad**
 
