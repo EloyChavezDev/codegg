@@ -65,7 +65,7 @@ sections:
           *   Entrega de 2 a 3 días hábiles.
         content_align: left
         actions:
-          - label: Contratar Pro
+          - label: Contratar Correctivo
             url: /contacto
             style: primary
         actions_align: left
