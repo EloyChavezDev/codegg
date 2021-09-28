@@ -23,13 +23,19 @@ sections:
       ##### ![](/images/Phone_Blue.png)**Llamada Telefónica**
 
 
-      ##### ![](/images/Whatsapp.png)** Whatssapp**
+      ##### ![](/images/Whatsapp.png) **Whatssapp**
 
 
-      ##### ![](/images/Telegram.png)** Telegram**
+      ##### ****![](/images/Telegram.png)**  Telegram**
 
 
-      ****
+      ***
+
+
+      ***
+
+
+      #### ****
 
 
       ****
