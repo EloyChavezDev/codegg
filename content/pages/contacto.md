@@ -67,7 +67,7 @@ sections:
         name: consent
         label: >-
           Entiendo que este formulario está almacenando mi información enviada
-          para que puedan ser contactados.
+          para que puedan ser contactado.
         is_required: true
     submit_label: Send Message
     align_vert: top
