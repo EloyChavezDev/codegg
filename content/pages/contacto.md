@@ -38,6 +38,12 @@ sections:
         label: Nombre
         default_value: Coloque su nombre
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
       - input_type: email
         name: email
         label: Email
@@ -63,12 +69,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
     submit_label: Send Message
     align_vert: top
     padding_top: medium
