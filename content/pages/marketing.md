@@ -3,7 +3,7 @@ title: Marketing
 sections:
   - type: hero_section
     title: Selecciona tu Plan
-    subtitle: Recuerda puedes contactarnos para realizar una estrategia a tu medida
+    subtitle: Recuerda puedes contactarnos para realizar un plan a tu medida
     align: center
     padding_top: large
     padding_bottom: small
