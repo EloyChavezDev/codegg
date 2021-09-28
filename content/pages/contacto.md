@@ -51,7 +51,7 @@ sections:
           - Sopote
           - Crear mi sitio web
           - Marketing Digital
-          - lorem-ipsum
+          - Otro
       - input_type: textarea
         name: message
         label: Mensaje
