@@ -1,5 +1,5 @@
 ---
-title: Websites
+title: Marketing
 sections:
   - type: hero_section
     title: Selecciona tu Plan
