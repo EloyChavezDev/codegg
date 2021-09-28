@@ -60,7 +60,7 @@ sections:
 
           *   1 Equipo
 
-          *   De 2 o 3 días en regreso del computador
+          *   Entrega de 2 a 3 días 
         content_align: left
         actions:
           - label: Contratar Pro
