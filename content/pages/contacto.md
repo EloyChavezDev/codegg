@@ -38,7 +38,7 @@ sections:
         label: Nombre
         default_value: Coloque su nombre
         is_required: true
-      - input_type: text
+      - input_type: number
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
