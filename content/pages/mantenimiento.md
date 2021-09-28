@@ -54,7 +54,7 @@ sections:
 
           *   Nueva pasta térmica
 
-          *   Respaldo del sistema operativo
+          *
 
           *   1 Equipo
 
