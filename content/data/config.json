@@ -60,7 +60,7 @@
             },
             {
                 "label": "lorem-ipsum",
-                "url": "#",
+                "url": "/contacto",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
