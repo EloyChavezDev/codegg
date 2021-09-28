@@ -15,19 +15,13 @@ sections:
         content: |
           ***
 
-          ### $ 3,999
+          ### $ 850
 
-          *   Adaptable a cualquier resolución de dispositivos,
+          *   4 Publicaciones al mes en Facebook
 
-          *   5 secciones
+          *   4 Publicaciones al mes en otra red social
 
-          *   Formulario de contacto
-
-          *   Galería de imágenes
-
-          *   Redes sociales.
-
-          *   Entrega de: 5 a 10 días hábiles
+          *   Compartir con mas de 10,000 personas
         content_align: left
         actions:
           - label: Start with Personal
