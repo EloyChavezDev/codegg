@@ -3,7 +3,9 @@ title: Marketing
 sections:
   - type: hero_section
     title: Selecciona tu Mantenimiento
-    subtitle: Recuerda puedes contactarnos para realizar un plan a tu medida
+    subtitle: >-
+      Recuerda puedes contactarnos para realizar cualquier otra reparacion no
+      listada.
     align: center
     padding_top: large
     padding_bottom: small
