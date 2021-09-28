@@ -48,7 +48,7 @@ sections:
         label: Asunto
         default_value: Please select
         options:
-          - Sopote
+          - Soporte
           - Crear mi sitio web
           - Marketing Digital
           - Otro
