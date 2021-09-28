@@ -17,13 +17,11 @@ sections:
       su presupuesto.
 
 
-      ![](/images/telefono-5d17d56e.png)** Llámanos:** Solo da clic aquí.
+      Solo da click en el icono del medio por el cual deseas contactarnos.
 
 
-      **Whatssapp:** Solo da clic aquí.
-
-
-      **Telegram**: Solo da clic aquí.
+      ![](/images/whatssapp-98bc80a3.png) ![](/images/telegram-a75b363f.png)
+      ![](/images/telefono-5d17d56e.png)
 
 
       ## **Aviso de Privacidad**
