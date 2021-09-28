@@ -31,7 +31,7 @@ sections:
         actions_width: full-width
       - subtitle: La mejor opción para impulsar tu negocio
         title_align: left
-        content: |+
+        content: |
           ***
 
           ### $ 1,300
@@ -42,8 +42,9 @@ sections:
 
           *   8 Publicaciones al mes en otra red social de tu preferencia.
 
-          *   Alta en Directorios
+          *   Compartir con mas de 10,000 personas
 
+          *   Alta en Directorios
         content_align: left
         actions:
           - label: Start with Premium
