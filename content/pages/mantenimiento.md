@@ -91,7 +91,7 @@ sections:
 
           *   Nueva pasta térmica.
 
-          *   Respaldo del sistema operativo.
+          *   Recogemos el equipo en su domicilio
 
           *   3 Equipos.
 
