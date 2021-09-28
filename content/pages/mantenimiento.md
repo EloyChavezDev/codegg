@@ -48,6 +48,8 @@ sections:
 
           *   Limpieza de software malintencionado.
 
+          *
+
           *   Limpieza de hardware
 
           *   Revisión del hardware
