@@ -26,28 +26,10 @@ sections:
       ##### ![](/images/Whatsapp.png) **Whatssapp**
 
 
-      ##### ![](/images/Telegram.png) Telegram
+      ##### ![](/images/Telegram.png) **Telegram**
 
 
-      ####
-
-
-      ***
-
-
-      ***
-
-
-      ####
-
-
-      ****
-
-
-      ****
-
-
-      **Aviso de Privacidad**
+      #### **Aviso de Privacidad**
 
 
       Te recordamos que puedes consultar nuestra política de privacidad así como
