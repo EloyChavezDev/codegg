@@ -10,13 +10,11 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ## Billing
+      ### **Contáctanos Directamente**
 
 
       Estamos seguros de poder ofrecerle una solución integral y al alcance de
       su presupuesto.
-
-
 
 
       ## Privacy
