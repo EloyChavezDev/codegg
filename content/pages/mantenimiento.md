@@ -54,7 +54,7 @@ sections:
 
           *   Nueva pasta térmica
 
-          *
+          *   Recogemos su equipo en su domicilio
 
           *   1 Equipo
 
