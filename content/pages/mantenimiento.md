@@ -42,15 +42,23 @@ sections:
 
           ### $ 1,499 MXN
 
-          *   15 Publicaciones al mes en Facebook.
+          *   Optimización del sistema.
 
-          *   8 Publicaciones al mes en Twitter o Instagram.
+          *   Instalación de programas con licencia.
 
-          *   8 Publicaciones al mes en otra red social de tu preferencia.
+          *   Limpieza de software malintencionado.
 
-          *   Compartir con mas de 10,000 personas
+          *   Limpieza de hardware
 
-          *   Alta en Directorios
+          *   Revisión del hardware
+
+          *   Nueva pasta térmica
+
+          *   Respaldo del sistema operativo
+
+          *   1 Equipo
+
+          *   De 2 o 3 días en regreso del computador
         content_align: left
         actions:
           - label: Contratar Pro
