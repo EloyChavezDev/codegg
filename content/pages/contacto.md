@@ -49,7 +49,7 @@ sections:
         default_value: Please select
         options:
           - Sopote
-          - Sponsorship
+          - Crear s
           - Other
       - input_type: textarea
         name: message
