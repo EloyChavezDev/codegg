@@ -41,7 +41,7 @@ sections:
       - input_type: number
         name: Teléfono
         label: lorem-ipsum
-        default_value: Coloque su numero de telefono a 10 digitos
+        default_value: Coloque su numero de teléfono a 10 dígitos
         options: []
         is_required: false
       - input_type: email
