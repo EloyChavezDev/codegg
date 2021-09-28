@@ -17,12 +17,10 @@ sections:
       su presupuesto.
 
 
-      Solo da click en el icono del medio por el cual deseas contactarnos.
+      Solo da click sobre el medio por el cual deseas contactarnos.
 
 
       ![](/images/Whatsapp.png)
-
-
 
 
       ## **Aviso de Privacidad**
