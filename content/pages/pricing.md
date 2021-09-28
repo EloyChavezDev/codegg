@@ -31,7 +31,7 @@ sections:
         content_align: left
         actions:
           - label: Contratar Express
-            url: /features
+            url: /contacto
             style: primary
         actions_align: left
         actions_width: full-width
