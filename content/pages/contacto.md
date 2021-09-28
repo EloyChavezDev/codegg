@@ -17,7 +17,7 @@ sections:
       su presupuesto.
 
 
-      **Llámanos:** Solo da clic aquí.
+      ![](/images/telefono-5d17d56e.png)** Llámanos:** Solo da clic aquí.
 
 
       **Whatssapp:** Solo da clic aquí.
