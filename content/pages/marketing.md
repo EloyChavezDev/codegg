@@ -74,7 +74,7 @@ sections:
           *   2 Entrada al blog mensual
         content_align: left
         actions:
-          - label: 'Contratar '
+          - label: Contratar Premium
             url: /features
             style: primary
         actions_align: left
