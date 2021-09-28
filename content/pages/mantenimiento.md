@@ -15,13 +15,19 @@ sections:
         content: |
           ***
 
-          ### $ 899 MXN
+          ### $ 500 MXN
 
-          *   4 Publicaciones al mes en Facebook
+          *   Optimización del sistema.
 
-          *   4 Publicaciones al mes en otra red social
+          *   Instalación de programas con licencia.
 
-          *   Compartir con mas de 10,000 personas
+          *   Limpieza de software malintencionado.
+
+          *   Respaldo del sistema operativo
+
+          *   Atención a domicilio o remota
+
+          *   Costo por Hora
         content_align: left
         actions:
           - label: Contratar Starter
