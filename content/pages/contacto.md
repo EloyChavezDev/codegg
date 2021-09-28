@@ -49,7 +49,7 @@ sections:
         default_value: Please select
         options:
           - Sopote
-          - Crear s
+          - Crear mi sitio web
           - Other
       - input_type: textarea
         name: message
