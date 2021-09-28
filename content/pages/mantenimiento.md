@@ -60,7 +60,7 @@ sections:
 
           *   1 Equipo
 
-          *   Entrega de 2 a 3 días 
+          *   Entrega de 2 a 3 días hábiles.
         content_align: left
         actions:
           - label: Contratar Pro
