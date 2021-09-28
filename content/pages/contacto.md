@@ -2,7 +2,7 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: Sea parte de un caso de éxito en Internet
+    title: Se parte de un caso de éxito en Internet
     subtitle: The optional subtitle
     align: center
     padding_top: medium
