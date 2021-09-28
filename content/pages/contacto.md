@@ -62,7 +62,7 @@ sections:
       - input_type: select
         name: subject
         label: Asunto
-        default_value: Please select
+        default_value: Seleccione el asunto
         options:
           - Soporte
           - Crear mi sitio web
