@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Selecciona tu Mantenimiento
     subtitle: >-
-      Recuerda puedes contactarnos para realizar cualquier otra reparacion no
+      Recuerda puedes contactarnos para realizar cualquier otra reparación no
       listada.
     align: center
     padding_top: large
