@@ -19,10 +19,7 @@ sections:
 
       Solo da click en el icono del medio por el cual deseas contactarnos.
 
-
-      ![](/images/whatssapp-98bc80a3.png) ![](/images/telegram-a75b363f.png)
-      ![](/images/telefono-5d17d56e.png)
-
+        
 
       ## **Aviso de Privacidad**
 
