@@ -48,7 +48,7 @@ sections:
         label: Asunto
         default_value: Please select
         options:
-          - Sopo
+          - Sopote
           - Sponsorship
           - Other
       - input_type: textarea
