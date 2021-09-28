@@ -30,7 +30,7 @@ sections:
           *   Entrega de: 5 a 10 días hábiles
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Contratar Express
             url: /features
             style: primary
         actions_align: left
