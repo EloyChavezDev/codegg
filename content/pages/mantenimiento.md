@@ -35,7 +35,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - subtitle: La mejor opción para impulsar tu negocio
+      - subtitle: La mejor solucion a equipos lentos
         title_align: left
         content: |
           ***
