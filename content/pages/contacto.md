@@ -17,8 +17,6 @@ sections:
       su presupuesto.
 
 
-      ![](/images/whatssapp.png) ![](/images/telegram.png)
-      ![](/images/telefono.png)
 
 
       ## Privacy
