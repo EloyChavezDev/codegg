@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: "\U0001F423\_Preventivo"
-        subtitle: Ideal para iniciar
+        subtitle: Ideal para evitar fallos en tu equipo
         title_align: left
         content: |
           ***
