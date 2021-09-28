@@ -56,7 +56,7 @@ sections:
         name: message
         label: Mensaje
         default_value: "Cuéntanos un poco mas sobre el asunto \U0001F600"
-        is_required: true
+        is_required: false
       - input_type: checkbox
         name: consent
         label: >-
