@@ -184,7 +184,7 @@ sections:
         image: /images/email-con-dominio-propio.png
       - title: Web adaptada a móviles
         subtitle: >-
-          Es algo que se debería de dar por hecho hoy en dia, pero te lo
+          Es algo que se debería de dar por hecho hoy en día, pero te lo
           confirmo para que no tengas dudas.
         title_align: left
         content_align: left
