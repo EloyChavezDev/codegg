@@ -15,7 +15,7 @@ sections:
         subtitle: >-
           Te enseñaré como gestionar tu página web para que no dependas de nadie
           si necesitas hacer alguna modificación.
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: left
