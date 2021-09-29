@@ -187,7 +187,7 @@ sections:
         image_has_padding: false
         image: /images/ajustes-de-seguridad.png
       - title: Adaptada a RGPD
-        subtitle: lorem-ipsum
+        subtitle: Tu página estará adaptada a la nueva
         title_align: left
         content: >-
           ## Lorem ipsum
