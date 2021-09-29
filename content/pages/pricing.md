@@ -254,7 +254,7 @@ sections:
   - type: grid_section
     title: "Tu preguntas, Nosotros Respondemos! \U0001F468\U0001F3FB‍\U0001F4BB"
     grid_items:
-      - title: Lorem ipsum dolor sit amet consectetur?
+      - title: ¿Cuánto tardas en hacer la web?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
