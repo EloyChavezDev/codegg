@@ -167,7 +167,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/enalces-redes-sociales.png
-      - title: lorem-ipsum
+      - title: Correo con tu dominio
         subtitle: lorem-ipsum
         title_align: left
         content: >-
