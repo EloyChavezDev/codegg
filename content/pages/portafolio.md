@@ -11,10 +11,12 @@ sections:
     features:
       - title: Instituto Americano
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Su mayor ocupación es la formación integral de cada uno de sus
+          estudiantes, para que sean personas con la capacidad de entender y
+          vivir armónicamente con su entorno social recibiendo una educación de
+          Excelencia.
+
         image: /images/instituto-americano.png
         image_alt: Top view of business meeting
         media_position: right
