@@ -25,7 +25,7 @@ sections:
         align: center
       - title: Section Title Three
         subtitle: >-
-          una institución dedicada a buscar formar individuos en los niveles
+          Una institución dedicada a buscar formar individuos en los niveles
           medio superior y superior capaces de proporcionar respuestas concretas
           y de calidad a las demandas de la dinámica social e insertarse a la
           fuerza laboral.
