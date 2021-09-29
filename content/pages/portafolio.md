@@ -22,6 +22,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
+        align: center
       - title: Section Title Three
         subtitle: ' Una institución dedicada a la educación en sus diferentes tipos y modalidades, que ante la necesidad de contar con una educación de calidad '
         content: >-
