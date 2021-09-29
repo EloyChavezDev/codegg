@@ -2,7 +2,6 @@
 title: Websites
 sections:
   - type: hero_section
-    subtitle: Recuerda puedes contactarnos para realizar un sitio a tu medida
     align: center
     padding_top: large
     padding_bottom: small
