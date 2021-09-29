@@ -187,7 +187,9 @@ sections:
         image_has_padding: false
         image: /images/ajustes-de-seguridad.png
       - title: Adaptada a RGPD
-        subtitle: Tu página estará adaptada a la nueva
+        subtitle: >-
+          Tu página estará adaptada a la nueva Ley Federal de Protección de
+          Datos Personales en Posesión de los Particulares
         title_align: left
         content: >-
           ## Lorem ipsum
