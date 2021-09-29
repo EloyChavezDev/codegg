@@ -278,7 +278,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-  - section_id: lorem-ipsum
+  - section_id: Presupuesto
     title_align: center
     content_align: center
     form_position: bottom
