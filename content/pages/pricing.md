@@ -125,7 +125,10 @@ sections:
         image_has_padding: false
         image: /images/formación.png
       - title: Asesoramiento marketing
-        subtitle: lorem-ipsum
+        subtitle: >-
+          El asesoramiento en estrategias de marketing que funcionan en
+          Internet, desde captar leads, hasta cómo gestionar tu blog, por poner
+          dos ejemplos.
         title_align: left
         content: >-
           ## Lorem ipsum
