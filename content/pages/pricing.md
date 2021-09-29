@@ -256,9 +256,10 @@ sections:
     grid_items:
       - title: ¿Cuánto tardan en hacer un sitio web?
         content: >
-          Una vez tenga todo lo que te voy a pedir, son alrededor de 15/20 días.
-          Siempre tengo varios proyectos en marcha y te podré decir plazos en
-          nuestra cita, pero calcula lo que te he comentado.
+          Una vez que contemos con toda la información necesaria sobre tu
+          proyecto, son alrededor de 15/20 días hábiles. Siempre contamos con
+          varios proyectos en marcha y te podré decir plazos en nuestra cita,
+          pero calcula lo que te he comentado.
         title_align: center
         content_align: center
       - title: Sagittis vitae et leo duis ut diam?
