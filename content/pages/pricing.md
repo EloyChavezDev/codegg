@@ -127,8 +127,8 @@ sections:
       - title: Asesoramiento marketing
         subtitle: >-
           El asesoramiento en estrategias de marketing que funcionan en
-          Internet, desde captar leads, hasta cómo gestionar tu blog, por poner
-          dos ejemplos.
+          Internet, desde editar el contenido, hasta cómo gestionar tu blog, por
+          poner dos ejemplos.
         title_align: left
         content_align: left
         actions: []
