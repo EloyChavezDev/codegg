@@ -236,7 +236,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-    actions_position: bottom
+    actions_position: right
     actions_width: fourty
     align: center
     padding_top: medium
