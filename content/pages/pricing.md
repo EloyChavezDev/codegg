@@ -139,7 +139,7 @@ sections:
         subtitle: >-
           Conectaré tu web con Google Analytics y Search Console para que puedas
           ver las visitas y otros datos.
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
