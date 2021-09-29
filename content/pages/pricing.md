@@ -198,7 +198,9 @@ sections:
         image_has_padding: false
         image: /images/web-responsive.png
       - title: Autoadministrable
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Podrás modificar el contenido de tu web cuando quieras de forma
+          sencilla sin depender de nadie.
         title_align: left
         content_align: left
         actions: []
