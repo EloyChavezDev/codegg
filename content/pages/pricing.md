@@ -2,9 +2,6 @@
 title: Websites
 sections:
   - type: hero_section
-    title: >-
-      No se trata de tener una web, se trata de tener un negocio.Y eso es mucho
-      más que un diseño.
     subtitle: Recuerda puedes contactarnos para realizar un sitio a tu medida
     align: center
     padding_top: large
