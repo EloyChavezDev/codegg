@@ -24,7 +24,7 @@ sections:
         media_width: fifty
         align: center
       - title: Section Title Three
-        subtitle: ' Una institución dedicada a la educación en sus diferentes tipos y modalidades, que ante la necesidad de contar con una educación de calidad '
+        subtitle: ' busca formar individuos en los niveles medio superior y superior capaces de proporcionar respuestas concretas y de calidad a las demandas de la dinámica social e insertarse a la fuerza laboral.'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
