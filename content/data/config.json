@@ -29,7 +29,7 @@
             },
             {
                 "label": "Portafolio",
-                "url": "#",
+                "url": "portafolio",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
