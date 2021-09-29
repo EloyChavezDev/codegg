@@ -44,6 +44,21 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/marketing.png
+      - title: Ajustes de seguridad
+        subtitle: >-
+          Configuración de plugins de seguridad, medidas contra el spam y copias
+          de seguridad periódicas.
+        title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        image: /images/ajustes-de-seguridad.png
       - title: Soporte durante 30 días
         subtitle: >-
           Te damos soporte durante 30 días posteriores a la entrega de la web.
@@ -75,21 +90,6 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/browser.png
-      - title: Ajustes de seguridad
-        subtitle: >-
-          Configuración de plugins de seguridad, medidas contra el spam y copias
-          de seguridad periódicas.
-        title_align: center
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        image: /images/ajustes-de-seguridad.png
       - title: Adaptada a PDP
         subtitle: >-
           Tu página estará adaptada a la nueva Ley Federal de Protección de
