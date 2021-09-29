@@ -23,7 +23,7 @@
                 "no_follow": false
             },
             {
-                "label": "Precios",
+                "label": "Servicios",
                 "url": "/pricing",
                 "style": "link"
             },
