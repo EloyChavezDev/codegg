@@ -62,7 +62,7 @@ sections:
           Marketing de Contenidos.
         content_align: left
         actions:
-          - label: Contrátanos
+          - label: 'Quiero '
             url: /marketing
             style: primary
             has_icon: false
