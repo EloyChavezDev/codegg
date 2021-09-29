@@ -8,6 +8,7 @@ sections:
     content: "## **No se trata de tener una web, se trata de tener un negocio.&#xA;Y eso es mucho más que un diseño.**\n\nNuestro trabajo es trasformar la idea que tienes en una web, sencilla, optimizada y pensada para una buena\_ experiencia de usuario tanto para navegar como para comprar.\n\n\n\n"
     background_color: primary
     image: /images/Design inspiration-amico.svg
+    media_position: right
   - section_id: lorem-ipsum
     title: ¿Qué incluye el servicio que nos hace diferentes?
     actions: []
