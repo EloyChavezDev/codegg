@@ -304,9 +304,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    content: |+
-      Completa este sencillo formulario y me pondré en contacto contigo.
+    content: |
+      ## **Descríbeme tu proyecto**
 
+      Completa este sencillo formulario y me pondré en contacto contigo.
 seo:
   title: Pricing
   description: This is the pricing page
