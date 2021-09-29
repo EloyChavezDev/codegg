@@ -29,6 +29,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    title: ¿Cómo lo haremos?
   - section_id: lorem-ipsum
     title: ¿Que incluye el servicio de diseño web?
     actions: []
