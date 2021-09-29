@@ -152,6 +152,21 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/ssl.png
+      - title: Correo con tu dominio
+        subtitle: >-
+          Te crearemos las cuentas que necesites con el dominio de tu página.
+          Ejemplo: info@nombreweb.com
+        title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        image: /images/email-con-dominio-propio.png
       - title: Seguimiento de visitas
         subtitle: >-
           Conectaré tu web con Google Analytics y Search Console para que puedas
@@ -184,21 +199,6 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/enalces-redes-sociales.png
-      - title: Correo con tu dominio
-        subtitle: >-
-          Te crearemos las cuentas que necesites con el dominio de tu página.
-          Ejemplo: info@nombreweb.com
-        title_align: center
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        image: /images/email-con-dominio-propio.png
       - title: Autoadministrable
         subtitle: >-
           Podrás modificar el contenido de tu web cuando quieras de forma
