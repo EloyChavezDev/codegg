@@ -119,29 +119,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - section_id: lorem-ipsum
-    actions:
-      - label: Solicitar Presupuesto
-        url: 'https://codegg.mx/contacto/'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-    actions_position: right
-    actions_width: fourty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
-    title: No esperes mas y descríbeme tu proyecto
   - title: También esta esto incluido en tu web
     actions: []
     grid_items:
@@ -251,6 +228,29 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - section_id: lorem-ipsum
+    actions:
+      - label: Solicitar Presupuesto
+        url: 'https://codegg.mx/contacto/'
+        style: primary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+    actions_position: right
+    actions_width: fourty
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
+    title: No esperes mas y descríbeme tu proyecto
   - type: grid_section
     title: "Tu preguntas, Nosotros Respondemos! \U0001F468\U0001F3FB‍\U0001F4BB"
     grid_items:
