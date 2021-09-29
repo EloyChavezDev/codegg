@@ -296,7 +296,7 @@ sections:
     submit_label: Enviar
     align_vert: top
     padding_top: small
-    padding_bottom: medium
+    padding_bottom: small
     has_border: false
     background_color: primary
     background_image_opacity: 0
