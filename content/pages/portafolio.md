@@ -39,13 +39,12 @@ sections:
         align: center
   - section_id: FormularioClientes
     title_align: center
-    content: >+
-      #### **En CODEGG tenemos todo lo necesario para impulsar tu negocio al
+    content: >
+      ## **En CODEGG tenemos todo lo necesario para impulsar tu negocio al
       siguiente nivel**
 
 
       Estamos a tu disposición para ayudarte en cada paso del proceso.
-
     content_align: center
     form_position: bottom
     form_width: fifty
