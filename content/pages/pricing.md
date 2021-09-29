@@ -121,7 +121,7 @@ sections:
     title: También esta esto incluido en tu web
     actions: []
     grid_items:
-      - title: Certificado SSL(HTTPS)
+      - title: Certificado SSL (HTTPS)
         subtitle: lorem-ipsum
         title_align: left
         content: >-
