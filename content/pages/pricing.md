@@ -77,7 +77,7 @@ sections:
         subtitle: >-
           Configuración de plugins de seguridad, medidas contra el spam y copias
           de seguridad periódicas.
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
