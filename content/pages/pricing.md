@@ -47,7 +47,7 @@ sections:
           Te damos soporte durante 30 días posteriores a la entrega de la web.
           OJO, eso no significa que desaparezcamos luego, al contrario, te lo
           explico abajo.
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
