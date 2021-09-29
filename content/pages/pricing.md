@@ -106,7 +106,7 @@ sections:
     has_border: false
     background_color: none
   - section_id: lorem-ipsum
-    title: ¿Que incluye el servicio de diseño web
+    title: ¿Que incluye el servicio de diseño web?
     actions: []
     grid_items:
       - title: La formación
