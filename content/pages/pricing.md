@@ -110,7 +110,9 @@ sections:
     actions: []
     grid_items:
       - title: La formación
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Te enseñaré como gestionar tu página web para que no dependas de nadie
+          si necesitas hacer alguna modificación.
         title_align: left
         content: >-
           ## Lorem ipsum
