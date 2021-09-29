@@ -12,17 +12,13 @@ sections:
     features:
       - title: Paso 1
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          ### **Paso 1**
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **    **Descríbeme tu proyecto para que me pueda hacer una idea de en
+          qué punto estás.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
