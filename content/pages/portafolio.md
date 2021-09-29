@@ -72,7 +72,7 @@ sections:
     form_fields:
       - input_type: tel
         name: Telefono
-        default_value: 'Coloca tu numero telefonico '
+        default_value: 'Coloca tu numero telefónico '
         options: []
         is_required: false
     submit_label: lorem-ipsum
