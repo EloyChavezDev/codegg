@@ -157,7 +157,9 @@ sections:
         image_has_padding: false
         image: /images/soporte-30-dias.png
       - title: Optimización SEO
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Además de los ajustes SEO para que tu web se indexe correctamente te
+          ayudo con tu estrategia de posicionamiento.
         title_align: left
         content: >-
           ## Lorem ipsum
