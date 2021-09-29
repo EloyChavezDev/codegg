@@ -279,7 +279,6 @@ sections:
     has_border: false
     background_color: secondary
   - section_id: lorem-ipsum
-    title: Presupuesto
     subtitle: lorem-ipsum
     title_align: left
     content: >-
