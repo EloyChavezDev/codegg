@@ -27,7 +27,7 @@ sections:
           fringilla, fringilla.
         image: /images/cesal.png
         image_alt: Happy co-workers
-        media_position: right
+        media_position: left
         media_width: fifty
         align: right
   - type: grid_section
