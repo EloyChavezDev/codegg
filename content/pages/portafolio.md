@@ -71,7 +71,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: tel
-        name: lorem-ipsum
+        name: Telefono
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
