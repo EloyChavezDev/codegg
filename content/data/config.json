@@ -24,7 +24,7 @@
             },
             {
                 "label": "Servicios",
-                "url": "/pricing",
+                "url": "#servicios",
                 "style": "link"
             },
             {
