@@ -39,17 +39,13 @@ sections:
         align: center
   - section_id: FormularioClientes
     title_align: center
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      #### **En CODEGG tenemos todo lo necesario para impulsar tu negocio al
+      siguiente nivel**
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Estamos a tu disposición para ayudarte en cada paso del proceso.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     content_align: left
     form_position: bottom
     form_width: fifty
