@@ -305,6 +305,9 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     title: Descríbeme tu proyecto
+    content: |+
+      Completa este sencillo formulario y me pondré en contacto contigo.
+
 seo:
   title: Pricing
   description: This is the pricing page
