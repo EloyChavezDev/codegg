@@ -151,7 +151,9 @@ sections:
         image_has_padding: false
         image: /images/analytics.png
       - title: Enlaces a redes sociales
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Vincularé la web con tus redes sociales, Twitter, Instagram, YouTube,
+          Facebook, LinkedIn, etc.
         title_align: left
         content: >-
           ## Lorem ipsum
