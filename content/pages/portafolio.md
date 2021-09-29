@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: Nuestros Clientes
-    subtitle: Features Page Demo
+    subtitle: >-
+      Portafolio de algunos trabajos realizados, siempre de la mano con el
+      cliente, en constante comunicación y apoyo.
     background_color: primary
   - type: features_section
     features:
