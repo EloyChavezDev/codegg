@@ -183,7 +183,9 @@ sections:
         image_has_padding: false
         image: /images/email-con-dominio-propio.png
       - title: Web adaptada a móviles
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Es algo que se debería de dar por hecho ya, pero te lo confirmo para
+          que no tengas dudas.
         title_align: left
         content_align: left
         actions: []
