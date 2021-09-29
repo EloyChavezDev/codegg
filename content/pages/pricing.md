@@ -159,7 +159,7 @@ sections:
       - title: Optimización SEO
         subtitle: >-
           Además de los ajustes SEO para que tu web se indexe correctamente te
-          ayudo con tu estrategia de posicionamiento.
+          ayudamos con tu estrategia de posicionamiento.
         title_align: left
         content_align: left
         actions: []
