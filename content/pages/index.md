@@ -10,7 +10,7 @@ sections:
       redes sociales, hasta resolver tus problemas contables, legales y mas ❤
     actions:
       - label: Portafolio
-        url: portafolio
+        url: /portafolio
         style: primary
       - label: Contacto
         url: /contacto
