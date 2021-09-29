@@ -9,6 +9,9 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    content: >
+      ## **No se trata de tener una web, se trata de tener un negocio.&#xA;Y eso
+      es mucho más que un diseño.**&#xA;&#xA;
   - section_id: lorem-ipsum
     title: ¿Que incluye el servicio de diseño web?
     actions: []
