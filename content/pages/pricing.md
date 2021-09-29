@@ -125,7 +125,7 @@ sections:
         subtitle: >-
           Imprescindible para cualquier web hoy en día. Sin él tu web se
           mostrará como no segura a los usuarios.
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
