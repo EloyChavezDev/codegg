@@ -107,7 +107,6 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     title: ¿Que incluye el servicio de diseño web
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
