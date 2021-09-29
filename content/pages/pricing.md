@@ -154,7 +154,7 @@ sections:
         subtitle: >-
           Vincularé la web con tus redes sociales, Twitter, Instagram, YouTube,
           Facebook, LinkedIn, etc.
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
