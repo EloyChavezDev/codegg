@@ -9,10 +9,35 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     features:
-      - content: |
+      - content: >
           ### **Paso 1**
 
-              Descríbeme tu proyecto para que me pueda hacer una idea de en qué punto estás.
+
+          Descríbeme tu proyecto para que me pueda hacer una idea de en qué
+          punto estás.    
+
+
+          ### **Paso 2**
+
+              Tenemos la reunión por videoconferencia. Si por la razón que sea, veo que no es buena idea trabajar en tu proyecto, te lo diré y además te recomendaré qué opciones tienes para tu caso.    
+
+          ### **Paso 3**
+
+
+          **    **Me pongo con el diseño.    
+
+
+          ### **Paso 4**
+
+
+          **    **Formación en WordPrerss y Marketing. Quiero, que además de
+          entregarte una web segura, darte el mejor asesoramiento posible para
+          tu negocio y facilitarte todas las herramientas y que con esta
+          formación tengas una base para que estés más seguro con tu propia web.
+
+
+          No te preocupes, aunque ahora se te haga complicado, verás como cuando
+          te enseñe sobre tu propia página, lo verás todo más sencillo.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
