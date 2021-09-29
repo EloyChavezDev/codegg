@@ -62,7 +62,7 @@ sections:
         subtitle: >-
           Además de los ajustes SEO para que tu web se indexe correctamente te
           ayudamos con tu estrategia de posicionamiento.
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
