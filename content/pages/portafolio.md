@@ -23,7 +23,7 @@ sections:
         media_position: right
         media_width: fifty
         align: center
-      - title: Section Title Three
+      - title: Centro de Educación Superior de América Latina
         subtitle: >-
           Una institución dedicada a buscar formar individuos en los niveles
           medio superior y superior capaces de proporcionar respuestas concretas
