@@ -75,7 +75,7 @@ sections:
         default_value: 'Coloca tu numero telefónico '
         options: []
         is_required: true
-    submit_label: 'Solicitar '
+    submit_label: Solicitar llamada
     align_vert: top
     padding_top: medium
     padding_bottom: medium
