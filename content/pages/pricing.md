@@ -228,7 +228,7 @@ sections:
     type: grid_section
   - section_id: lorem-ipsum
     actions:
-      - label: So
+      - label: Contacto
         url: 'https://codegg.mx/contacto/'
         style: link
         has_icon: false
