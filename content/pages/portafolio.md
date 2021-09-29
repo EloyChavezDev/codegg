@@ -47,7 +47,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - section_id: lorem-ipsum
+  - section_id: FormularioClientes
     title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
