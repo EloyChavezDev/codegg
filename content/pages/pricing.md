@@ -150,7 +150,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/analytics.png
-      - title: lorem-ipsum
+      - title: Enlaces a redes sociales
         subtitle: lorem-ipsum
         title_align: left
         content: >-
