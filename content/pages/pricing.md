@@ -303,7 +303,7 @@ sections:
     form_fields:
       - input_type: tel
         name: Presupuesto
-        default_value: Col
+        default_value: Coloca tu numero telefonico o email
         options: []
         is_required: false
     submit_label: lorem-ipsum
