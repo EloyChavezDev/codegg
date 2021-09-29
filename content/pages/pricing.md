@@ -10,8 +10,7 @@ sections:
   - section_id: lorem-ipsum
     title: ¿Cómo lo haremos?
     features:
-      - subtitle: lorem-ipsum
-        content: |
+      - content: |
           ### **Paso 1**
 
               Descríbeme tu proyecto para que me pueda hacer una idea de en qué punto estás.
