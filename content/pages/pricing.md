@@ -124,7 +124,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/formación.png
-      - title: lorem-ipsum
+      - title: Asesoramiento marketing
         subtitle: lorem-ipsum
         title_align: left
         content: >-
