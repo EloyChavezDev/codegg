@@ -255,10 +255,10 @@ sections:
     title: "Tu preguntas, Nosotros Respondemos! \U0001F468\U0001F3FB‍\U0001F4BB"
     grid_items:
       - title: ¿Cuánto tardan en hacer un sitio web?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Una vez tenga todo lo que te voy a pedir, son alrededor de 15/20 días.
+          Siempre tengo varios proyectos en marcha y te podré decir plazos en
+          nuestra cita, pero calcula lo que te he comentado.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
