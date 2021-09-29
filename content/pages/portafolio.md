@@ -25,10 +25,10 @@ sections:
         align: center
       - title: Section Title Three
         subtitle: >-
-          una institución dedicadausca formar individuos en los niveles medio
-          superior y superior capaces de proporcionar respuestas concretas y de
-          calidad a las demandas de la dinámica social e insertarse a la fuerza
-          laboral.
+          una institución dedicada a busca formar individuos en los niveles
+          medio superior y superior capaces de proporcionar respuestas concretas
+          y de calidad a las demandas de la dinámica social e insertarse a la
+          fuerza laboral.
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
