@@ -10,8 +10,7 @@ sections:
   - section_id: lorem-ipsum
     title: ¿Cómo lo haremos?
     features:
-      - title: Paso 1
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: |
           ### **Paso 1**
 
