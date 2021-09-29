@@ -79,7 +79,7 @@ sections:
         content: "En la mayoría de los casos debido a\_**no dar mantenimiento oportuno a tus computadoras**, ocasionan fallos por\_**calentamiento, virus** entre otros. \n\nEvita estos problemas con una póliza de mantenimiento.\n"
         content_align: left
         actions:
-          - label: Saber mas
+          - label: Contrátanos
             url: /mantenimiento
             style: primary
             has_icon: false
