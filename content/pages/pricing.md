@@ -228,7 +228,7 @@ sections:
     type: grid_section
   - section_id: lorem-ipsum
     actions:
-      - label: Contacto
+      - label: Solicitar Presupuesto
         url: 'https://codegg.mx/contacto/'
         style: primary
         has_icon: false
