@@ -29,10 +29,9 @@ sections:
           medio superior y superior capaces de proporcionar respuestas concretas
           y de calidad a las demandas de la dinámica social e insertarse a la
           fuerza laboral.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Diseño web en Wordpress, Secciones informativas, Correos Corporativos,
+          Dominio y Hosting.
         image: /images/cesal.png
         image_alt: Happy co-workers
         media_position: left
