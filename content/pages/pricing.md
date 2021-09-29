@@ -169,7 +169,7 @@ sections:
         image: /images/enalces-redes-sociales.png
       - title: Correo con tu dominio
         subtitle: >-
-          Te creaemos las cuentas que necesites con el dominio de tu página.
+          Te crearemos las cuentas que necesites con el dominio de tu página.
           Ejemplo: info@nombreweb.com
         title_align: left
         content: >-
