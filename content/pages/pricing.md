@@ -172,7 +172,9 @@ sections:
         image_has_padding: false
         image: /images/browser.png
       - title: Ajustes de seguridad
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Configuración de plugins de seguridad, medidas contra el spam y copias
+          de seguridad periódicas.
         title_align: left
         content: >-
           ## Lorem ipsum
