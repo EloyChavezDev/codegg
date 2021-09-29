@@ -259,6 +259,7 @@ sections:
           Una vez tenga todo lo que te voy a pedir, son alrededor de 15/20 días.
           Siempre tengo varios proyectos en marcha y te podré decir plazos en
           nuestra cita, pero calcula lo que te he comentado.
+        title_align: center
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
