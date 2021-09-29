@@ -126,17 +126,6 @@ sections:
           Imprescindible para cualquier web hoy en día. Sin él tu web se
           mostrará como no segura a los usuarios.
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
