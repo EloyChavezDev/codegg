@@ -122,6 +122,21 @@ sections:
   - title: Incluimos herramientas que nuestros competidores cobran por separado
     actions: []
     grid_items:
+      - title: Web adaptada a móviles
+        subtitle: >-
+          Es algo que se debería de dar por hecho hoy en día, pero te lo
+          confirmo para que no tengas dudas.
+        title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        image: /images/web-responsive.png
       - title: Certificado SSL (HTTPS)
         subtitle: >-
           Imprescindible para cualquier web hoy en día. Sin él tu web se
@@ -184,21 +199,6 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/email-con-dominio-propio.png
-      - title: Web adaptada a móviles
-        subtitle: >-
-          Es algo que se debería de dar por hecho hoy en día, pero te lo
-          confirmo para que no tengas dudas.
-        title_align: center
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: false
-        image: /images/web-responsive.png
       - title: Autoadministrable
         subtitle: >-
           Podrás modificar el contenido de tu web cuando quieras de forma
