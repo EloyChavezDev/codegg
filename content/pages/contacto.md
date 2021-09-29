@@ -33,7 +33,7 @@ sections:
       #### **Aviso de Privacidad**
 
 
-      Te recordamos que puedes consultar nuestra [Política de
+      Te recordamos que puedes consultar en todo momento nuestra [Política de
       Privacidad](https://codegg.mx/privacy-policy/) así como nuestros [Términos
       y Condiciones](https://codegg.mx/terms-conditions/).
     content_align: left
