@@ -12,13 +12,10 @@ sections:
     features:
       - title: Paso 1
         subtitle: lorem-ipsum
-        content: >+
+        content: |
           ### **Paso 1**
 
-
-          **    **Descríbeme tu proyecto para que me pueda hacer una idea de en
-          qué punto estás.
-
+              Descríbeme tu proyecto para que me pueda hacer una idea de en qué punto estás.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
