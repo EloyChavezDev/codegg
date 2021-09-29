@@ -140,7 +140,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/marketing.png
-      - title: lorem-ipsum
+      - title: Soporte durante 30 días
         subtitle: lorem-ipsum
         title_align: left
         content: >-
