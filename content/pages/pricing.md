@@ -270,12 +270,6 @@ sections:
           plazo exacto en nuestra primera reunión.
         title_align: center
         content_align: center
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
