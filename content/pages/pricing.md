@@ -8,7 +8,7 @@ sections:
     content: "## **No se trata de tener una web, se trata de tener un negocio.&#xA;Y eso es mucho más que un diseño.**\n\nNuestro trabajo es trasformar la idea que tienes en una web, sencilla, optimizada y pensada para una buena\_ experiencia de usuario tanto para navegar como para comprar.\n\n\n\n"
     background_color: primary
   - section_id: lorem-ipsum
-    title: ¿Que incluye el servicio de diseño web?
+    title: ¿Que incluye el servicio que nos hace diferentes?
     actions: []
     grid_items:
       - title: La formación
