@@ -135,7 +135,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/ssl.png
-      - title: lorem-ipsum
+      - title: Seguimiento de visitas
         subtitle: lorem-ipsum
         title_align: left
         content: >-
