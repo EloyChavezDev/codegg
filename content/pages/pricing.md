@@ -142,8 +142,8 @@ sections:
         image: /images/marketing.png
       - title: Soporte durante 30 días
         subtitle: >-
-          TE soporte durante 30 días posteriores a la entrega de la web. Ojo,
-          eso no significa que desaparezca luego, al contrario, luego te lo
+          Te damos soporte durante 30 días posteriores a la entrega de la web.
+          Ojo, eso no significa que desaparezca luego, al contrario, luego te lo
           explico abajo.
         title_align: left
         content_align: left
