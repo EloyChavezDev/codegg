@@ -186,7 +186,7 @@ sections:
         subtitle: >-
           Es algo que se debería de dar por hecho hoy en día, pero te lo
           confirmo para que no tengas dudas.
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
