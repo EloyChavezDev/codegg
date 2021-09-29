@@ -118,7 +118,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: lorem-ipsum
-    title: También esta esto incluido en el diseño web
+    title: También esta esto incluido en tu web
     actions: []
     grid_items: []
     grid_cols: three
