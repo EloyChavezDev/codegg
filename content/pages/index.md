@@ -101,7 +101,7 @@ sections:
     title: Portafolio
     actions:
       - label: Ver Portafolio Completo
-        url: /style-guide
+        url: portafolio
         style: primary
     grid_items:
       - title: Instituto Americano
