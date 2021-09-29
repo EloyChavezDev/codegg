@@ -38,7 +38,6 @@ sections:
         media_width: fifty
         align: center
   - section_id: FormularioClientes
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
