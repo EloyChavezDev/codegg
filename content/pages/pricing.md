@@ -293,7 +293,7 @@ sections:
         default_value: Coloca tu numero telefónico o email
         options: []
         is_required: false
-    submit_label: lorem-ipsum
+    submit_label: Contacta
     align_vert: top
     padding_top: medium
     padding_bottom: medium
