@@ -10,7 +10,7 @@ sections:
     image: /images/Design inspiration-amico.svg
     media_position: left
   - section_id: lorem-ipsum
-    title: ¿Qué incluye nuesto servicio que nos hace diferentes?
+    title: ¿Qué incluye nuestro servicio que nos hace diferentes?
     actions: []
     grid_items:
       - title: La formación
