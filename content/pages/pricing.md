@@ -8,54 +8,6 @@ sections:
     content: "## **No se trata de tener una web, se trata de tener un negocio.&#xA;Y eso es mucho más que un diseño.**\n\nNuestro trabajo es trasformar la idea que tienes en una web, sencilla, optimizada y pensada para una buena\_ experiencia de usuario tanto para navegar como para comprar.\n\n\n\n"
     background_color: primary
   - section_id: lorem-ipsum
-    features:
-      - content: >
-          ### **Paso 1**
-
-
-          Descríbeme tu proyecto para que me pueda hacer una idea de en qué
-          punto estás.    
-
-
-          ### **Paso 2**
-
-              Tenemos la reunión por videoconferencia. Si por la razón que sea, veo que no es buena idea trabajar en tu proyecto, te lo diré y además te recomendaré qué opciones tienes para tu caso.    
-
-          ### **Paso 3**
-
-
-          **    **Me pongo con el diseño.    
-
-
-          ### **Paso 4**
-
-
-          **    **Formación en WordPrerss y Marketing. Quiero, que además de
-          entregarte una web segura, darte el mejor asesoramiento posible para
-          tu negocio y facilitarte todas las herramientas y que con esta
-          formación tengas una base para que estés más seguro con tu propia web.
-
-
-          No te preocupes, aunque ahora se te haga complicado, verás como cuando
-          te enseñe sobre tu propia página, lo verás todo más sencillo.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: center
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
-    title: ¿Cómo lo haremos?
-  - section_id: lorem-ipsum
     title: ¿Que incluye el servicio de diseño web?
     actions: []
     grid_items:
