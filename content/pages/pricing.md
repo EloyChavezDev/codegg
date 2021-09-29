@@ -122,7 +122,9 @@ sections:
     actions: []
     grid_items:
       - title: Certificado SSL (HTTPS)
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Imprescindible para cualquier web hoy en día. Sin él tu web se
+          mostrará como no segura a los usuarios.
         title_align: left
         content: >-
           ## Lorem ipsum
