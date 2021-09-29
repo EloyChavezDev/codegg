@@ -201,7 +201,7 @@ sections:
         subtitle: >-
           Podrás modificar el contenido de tu web cuando quieras de forma
           sencilla sin depender de nadie.
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
