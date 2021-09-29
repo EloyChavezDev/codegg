@@ -282,7 +282,7 @@ sections:
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.
-    grid_cols: three
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
