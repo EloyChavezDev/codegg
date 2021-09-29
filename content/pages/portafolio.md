@@ -23,7 +23,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Section Title Three
-        subtitle: ' una institución dedicada a la educación en sus diferentes tipos y modalidades, que ante la necesidad de contar con una educación de calidad '
+        subtitle: ' Una institución dedicada a la educación en sus diferentes tipos y modalidades, que ante la necesidad de contar con una educación de calidad '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
