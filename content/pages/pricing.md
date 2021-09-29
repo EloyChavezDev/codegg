@@ -92,7 +92,7 @@ sections:
         subtitle: >-
           Tu página estará adaptada a la nueva Ley Federal de Protección de
           Datos Personales en Posesión de los Particulares
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
