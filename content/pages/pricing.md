@@ -263,10 +263,7 @@ sections:
         title_align: center
         content_align: center
       - title: Sagittis vitae et leo duis ut diam?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "1.  Descríbeme tu proyecto para que me pueda hacer una idea de en qué punto estás.\n\n2.  Tenemos la reunión\_y además te recomendaré qué opciones tienes para tu caso.\n\n3.  Diseñamos y creamos tu sitio web.\n\n4.  Formación en WordPress y Marketing.\_\n"
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
