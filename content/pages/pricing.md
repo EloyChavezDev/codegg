@@ -229,7 +229,7 @@ sections:
   - section_id: lorem-ipsum
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://codegg.mx/contacto/'
         style: link
         has_icon: false
         icon: arrow-left
