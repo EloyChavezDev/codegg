@@ -260,8 +260,10 @@ sections:
         content_align: left
       - title: ¿Cuánto tardan en hacer un sitio web?
         content: >
-          Una vez que contemos con toda la información necesaria sobre tu
-          proyecto, son alrededor de 15/20 días hábiles.
+          El tiempo de desarrollo y puesta en marcha estará determinado en
+          función de la toma de requerimientos inicial, una vez acordado el
+          diseño no deberá tomar más del tiempo estimado que es alrededor de 10
+          a 15 días hábiles.
 
 
           Siempre contamos con varios proyectos en marcha y te podré decir un
