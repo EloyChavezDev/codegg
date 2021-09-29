@@ -38,7 +38,7 @@ sections:
         media_width: fifty
         align: center
   - section_id: FormularioClientes
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
