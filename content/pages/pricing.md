@@ -295,7 +295,7 @@ sections:
         is_required: false
     submit_label: Enviar
     align_vert: top
-    padding_top: small
+    padding_top: none
     padding_bottom: small
     has_border: false
     background_color: primary
