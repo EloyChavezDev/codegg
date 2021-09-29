@@ -156,7 +156,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/soporte-30-dias.png
-      - title: lorem-ipsum
+      - title: Optimización SEO
         subtitle: lorem-ipsum
         title_align: left
         content: >-
