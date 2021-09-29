@@ -197,7 +197,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/web-responsive.png
-      - title: Autogestionable
+      - title: Autoadministable
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
