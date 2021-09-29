@@ -157,7 +157,7 @@ sections:
     form_id: FormHome
     form_action: lorem-ipsum
     form_fields:
-      - input_type: number
+      - input_type: tel
         name: FormHome
         options: []
         is_required: true
