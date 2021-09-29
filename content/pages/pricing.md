@@ -171,7 +171,7 @@ sections:
         subtitle: >-
           Te crearemos las cuentas que necesites con el dominio de tu página.
           Ejemplo: info@nombreweb.com
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
