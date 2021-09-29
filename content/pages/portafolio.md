@@ -15,7 +15,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/about-3.jpg
+        image: /images/instituto-americano.png
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
