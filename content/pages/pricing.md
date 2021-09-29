@@ -255,7 +255,7 @@ sections:
     title: "Tu preguntas, Nosotros Respondemos! \U0001F468\U0001F3FB‍\U0001F4BB"
     grid_items:
       - title: ¿Cuál es el proceso?
-        content: "1.  Descríbeme tu proyecto para conocer de en qué punto estás.\n\n2.  Tenemos una reunión\_y además te recomendaré qué opciones tienes para tu caso.\n\n3.  Diseñamos y creamos tu sitio web.\n\n4.  Formación en WordPress y Marketing.\_\n"
+        content: "1.  Describe tu proyecto para conocer de en qué punto estás.\n\n2.  Tenemos una reunión\_y además te recomendaré qué opciones tienes para tu caso.\n\n3.  Diseñamos y creamos tu sitio web.\n\n4.  Formación en WordPress y Marketing.\_\n"
       - title: ¿Cuánto tardan en hacer un sitio web?
         content: >
           Una vez que contemos con toda la información necesaria sobre tu
