@@ -28,7 +28,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/formación.png
-      - title: Asesoramiento marketing
+      - title: Asesoramiento en marketing
         subtitle: >-
           El asesoramiento en estrategias de marketing que funcionan en
           Internet, desde editar el contenido, hasta cómo gestionar tu blog, por
