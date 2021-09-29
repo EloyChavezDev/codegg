@@ -182,7 +182,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/email-con-dominio-propio.png
-      - title: lorem-ipsum
+      - title: Web adaptada a móviles
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
