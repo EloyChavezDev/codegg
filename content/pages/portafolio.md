@@ -15,8 +15,9 @@ sections:
           estudiantes, para que sean personas con la capacidad de entender y
           vivir armónicamente con su entorno social recibiendo una educación de
           Excelencia.
-        content: |
-          Diseño web en Wordpress, Catálogo electrónico, Dominio y Hosting.
+        content: >
+          Diseño web en Wordpress, Catálogo electrónico con secciones
+          informativas, Correos Corporativos y Hosting.
         image: /images/instituto-americano.png
         image_alt: Top view of business meeting
         media_position: right
