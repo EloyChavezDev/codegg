@@ -9,7 +9,6 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     title: ¿Cómo lo haremos?
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
