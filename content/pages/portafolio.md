@@ -10,7 +10,7 @@ sections:
   - type: features_section
     features:
       - title: Instituto Americano
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 'Diseño web en Wordpress, Catálogo electrónico, Dominio y Hosting'
         content: >+
           Su mayor ocupación es la formación integral de cada uno de sus
           estudiantes, para que sean personas con la capacidad de entender y
