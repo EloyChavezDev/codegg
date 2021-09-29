@@ -136,7 +136,9 @@ sections:
         image_has_padding: false
         image: /images/ssl.png
       - title: Seguimiento de visitas
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Conectaré tu web con Google Analytics y Search Console para que puedas
+          ver las visitas y otros datos.
         title_align: left
         content: >-
           ## Lorem ipsum
