@@ -10,7 +10,11 @@ sections:
   - type: features_section
     features:
       - title: Instituto Americano
-        subtitle: 'Diseño web en Wordpress, Catálogo electrónico, Dominio y Hosting'
+        subtitle: >-
+          Su mayor ocupación es la formación integral de cada uno de sus
+          estudiantes, para que sean personas con la capacidad de entender y
+          vivir armónicamente con su entorno social recibiendo una educación de
+          Excelencia.
         content: |
           Diseño web en Wordpress, Catálogo electrónico, Dominio y Hosting.
         image: /images/instituto-americano.png
