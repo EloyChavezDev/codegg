@@ -259,11 +259,11 @@ sections:
       - title: ¿Cuánto tardan en hacer un sitio web?
         content: >
           Una vez que contemos con toda la información necesaria sobre tu
-          proyecto, son alrededor de 15/20 días hábiles. 
+          proyecto, son alrededor de 15/20 días hábiles.
 
 
-          Siempre contamos con varios proyectos en marcha y te podré decir
-          plazos en nuestra primera reunión.
+          Siempre contamos con varios proyectos en marcha y te podré decir un
+          plazo exacto en nuestra primera reunión.
         title_align: center
         content_align: center
       - title: Viverra nam libero justo laoreet sit?
