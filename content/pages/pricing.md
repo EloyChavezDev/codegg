@@ -279,7 +279,7 @@ sections:
     has_border: false
     background_color: secondary
   - section_id: lorem-ipsum
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
