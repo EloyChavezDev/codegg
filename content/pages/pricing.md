@@ -305,7 +305,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     content: |
-      ## **Descríbeme tu proyecto**
+      ## **Descríbenos tu proyecto**
 
       Completa este sencillo formulario y me pondré en contacto contigo.
 seo:
