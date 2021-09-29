@@ -38,7 +38,7 @@ sections:
           tu presencia online.
         content_align: left
         actions:
-          - label: Contrátanos
+          - label: Mas Informacion
             url: /pricing
             style: primary
             has_icon: false
