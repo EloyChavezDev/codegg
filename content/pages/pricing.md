@@ -31,7 +31,7 @@ sections:
           El asesoramiento en estrategias de marketing que funcionan en
           Internet, desde editar el contenido, hasta cómo gestionar tu blog, por
           poner dos ejemplos.
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
