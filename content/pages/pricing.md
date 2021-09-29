@@ -250,7 +250,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-    title: Descríbeme tu proyecto
+    title: No esperes mas y descríbeme tu proyecto
   - type: grid_section
     title: "Tu preguntas, Nosotros Respondemos! \U0001F468\U0001F3FB‍\U0001F4BB"
     grid_items:
