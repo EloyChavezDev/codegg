@@ -143,7 +143,7 @@ sections:
       - title: Soporte durante 30 días
         subtitle: >-
           Te damos soporte durante 30 días posteriores a la entrega de la web.
-          Ojo, eso no significa que desaparezca luego, al contrario, te lo
+          OJO, eso no significa que desaparezca luego, al contrario, te lo
           explico abajo.
         title_align: left
         content_align: left
