@@ -8,6 +8,21 @@ sections:
     content: "## **No se trata de tener una web, se trata de tener un negocio.&#xA;Y eso es mucho más que un diseño.**\n\nNuestro trabajo es trasformar la idea que tienes en una web, sencilla, optimizada y pensada para una buena\_ experiencia de usuario tanto para navegar como para comprar.\n\n\n\n"
     background_color: primary
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    features: []
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
+  - section_id: lorem-ipsum
     title: ¿Que incluye el servicio de diseño web?
     actions: []
     grid_items:
@@ -156,21 +171,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    features: []
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
 seo:
   title: Pricing
   description: This is the pricing page
