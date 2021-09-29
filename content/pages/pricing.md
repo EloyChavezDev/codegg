@@ -303,7 +303,7 @@ sections:
     form_fields:
       - input_type: tel
         name: Presupuesto
-        default_value: lorem-ipsum
+        default_value: Col
         options: []
         is_required: false
     submit_label: lorem-ipsum
