@@ -109,7 +109,7 @@ sections:
     title: ¿Que incluye el servicio de diseño web
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: La formación
         subtitle: lorem-ipsum
         title_align: left
         content: >-
