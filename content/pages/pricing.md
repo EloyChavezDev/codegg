@@ -186,7 +186,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: /images/ajustes-de-seguridad.png
-      - title: 'Adaptada a '
+      - title: Adaptada a P
         subtitle: >-
           Tu página estará adaptada a la nueva Ley Federal de Protección de
           Datos Personales en Posesión de los Particulares
