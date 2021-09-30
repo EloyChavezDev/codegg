@@ -307,19 +307,15 @@ sections:
         content: |
           ***
 
-          *   Adaptable a cualquier dispositivo.
+          *   15 Publicaciones al mes en Facebook.
 
-          *   5 a 10 secciones
+          *   8 Publicaciones al mes en Twitter o Instagram.
 
-          *   2 formulario de contacto.
+          *   8 Publicaciones al mes en otra red social de tu preferencia.
 
-          *   Galería de imágenes.
+          *   Compartir con mas de 10,000 personas
 
-          *   Redes sociales.
-
-          *   2 entradas para tu blog
-
-          *   Autoadministrable
+          *   Alta en Directorios
         content_align: left
         actions: []
         actions_align: left
