@@ -46,7 +46,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/marketing.png
-      - title: Ajustes de seguridad
+      - title: Estrategia digital
         subtitle: >-
           Configuración de plugins de seguridad, medidas contra el spam y copias
           de seguridad periódicas.
