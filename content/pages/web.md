@@ -323,7 +323,7 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
-        image_width: fifty
+        image_width: thirty-three
         image_align: left
         image_has_padding: true
         image: /images/Add to Cart-amico (1).svg
