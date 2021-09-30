@@ -284,12 +284,12 @@ sections:
       - title: "\U0001F423 Starter"
         subtitle: ideal para comenzar
         title_align: left
-        content: >
+        content: |
           ***
 
+          *   Plan de medios para amplificación del contenido
 
-          *   *   Plan de medios para amplificación del contenido*   Producción
-          de contenido digital en diversos formatos
+          *   Producción de contenido digital en diversos formatos
         content_align: left
         actions: []
         actions_align: left
