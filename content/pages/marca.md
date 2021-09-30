@@ -47,9 +47,7 @@ sections:
         image_has_padding: false
         image: /images/marketing.png
       - title: Estrategia digital
-        subtitle: >-
-          Configuración de plugins de seguridad, medidas contra el spam y copias
-          de seguridad periódicas.
+        subtitle: Servicios digitales Customer Intelligence Business Intelligence
         title_align: center
         content_align: left
         actions: []
