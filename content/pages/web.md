@@ -61,7 +61,7 @@ sections:
         image: /images/ajustes-de-seguridad.png
       - title: Soporte durante 15 días
         subtitle: >-
-          Te damos soporte durante 30 días posteriores a la entrega de la web.
+          Te damos soporte durante 15 días posteriores a la entrega de la web.
           OJO, eso no significa que desaparezcamos luego, al contrario, te lo
           explico abajo.
         title_align: center
