@@ -305,7 +305,7 @@ sections:
         image_has_padding: false
       - title: "\U0001F424 Pro"
         subtitle: La mejor opción para iniciar tu proyecto
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
