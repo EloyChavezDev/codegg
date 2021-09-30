@@ -124,8 +124,8 @@ sections:
     grid_items:
       - title: CONTENIDOS DIGITALES
         subtitle: >-
-          Es algo que se debería de dar por hecho hoy en día, pero te lo
-          confirmo para que no tengas dudas.
+          Creamos contenido digital basado en insights para conectar a las
+          audiencias con tu marca, producto o servicio.
         title_align: center
         content_align: left
         actions: []
