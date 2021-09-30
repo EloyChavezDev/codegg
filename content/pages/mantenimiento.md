@@ -15,6 +15,8 @@ sections:
         subtitle: Ideal para evitar fallos en tu equipo
         title_align: left
         content: |
+
+
           *   Optimización del sistema.
 
           *   Instalación de programas con licencia.
