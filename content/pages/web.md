@@ -305,7 +305,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F424 Pro"
-        subtitle: lorem-ipsum
+        subtitle: La mejor opcion para iniciar tu proyecto
         title_align: left
         content: >-
           ## Lorem ipsum
