@@ -34,10 +34,7 @@ sections:
         image_has_padding: false
         image: /images/formación.png
       - title: Expresiones Creativas
-        subtitle: >-
-          El asesoramiento en estrategias de marketing que funcionan en
-          Internet, desde editar el contenido, hasta cómo gestionar tu blog, por
-          poner dos ejemplos.
+        subtitle: Branded Content Creatividad y campañas transmedia
         title_align: center
         content_align: left
         actions: []
