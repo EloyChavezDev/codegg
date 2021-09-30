@@ -39,7 +39,7 @@ sections:
         content_align: left
         actions:
           - label: Mas Información
-            url: /pricing
+            url: /web
             style: primary
             has_icon: false
             icon: arrow-right
