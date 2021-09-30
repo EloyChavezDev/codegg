@@ -334,7 +334,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F413  Premium"
-        subtitle: Haz que t
+        subtitle: Haz que te recuerden siempre
         title_align: left
         content: |+
           ***
