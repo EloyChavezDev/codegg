@@ -284,14 +284,12 @@ sections:
       - title: "\U0001F423 Starter"
         subtitle: ideal para comenzar
         title_align: left
-        content: |
+        content: >
           ***
 
-          *   4 Publicaciones al mes en Facebook
 
-          *   4 Publicaciones al mes en otra red social
-
-          *   Compartir con mas de 10,000 personas
+          *   *   Plan de medios para amplificación del contenido*   Producción
+          de contenido digital en diversos formatos
         content_align: left
         actions: []
         actions_align: left
