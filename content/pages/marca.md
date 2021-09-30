@@ -168,7 +168,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/email-con-dominio-propio.png
-      - title: Seguimiento de visitas
+      - title: CREATIVIDAD
         subtitle: >-
           Conectaré tu web con Google Analytics y Search Console para que puedas
           ver las visitas y otros datos.
