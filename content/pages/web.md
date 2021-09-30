@@ -332,19 +332,18 @@ sections:
       - title: "\U0001F413 E-Coomerce"
         subtitle: Tu negocio disponible las 24 hrs.
         title_align: left
-        content: >-
+        content: |
           ***
 
-          ## Lorem ipsum
+          *   Adaptable a cualquier dispositivo.
 
+          *   5 secciones
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   formulario de contacto.
 
+          *   Galería de imágenes.
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Redes sociales.
         content_align: left
         actions: []
         actions_align: left
