@@ -5,7 +5,14 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    content: "## **TECNOLOGÍA PARA LA INSPIRACIÓN CREATIVA**\n\nNuestro trabajo es trasformar la idea que tienes en una web, sencilla, optimizada y pensada para una buena\_experiencia de usuario tanto para navegar como para comprar.\n"
+    content: >+
+      ## **TECNOLOGÍA PARA LA INSPIRACIÓN CREATIVA**
+
+
+      Nos enfocamos en los verdaderos objetivos de negocio de nuestros clientes,
+      buscando siempre generación de ingresos, ya sea a través de estrategia o
+      creatividad
+
     background_color: primary
     image: /images/Marketing-amico.svg
     media_position: left
