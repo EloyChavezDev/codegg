@@ -287,8 +287,6 @@ sections:
         content: |
           *   Adaptable a cualquier dispositivo.
 
-          <!---->
-
           *   5 secciones
 
           *   formulario de contacto.
