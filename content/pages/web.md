@@ -283,7 +283,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: "\U0001F423 Starter"
         subtitle: lorem-ipsum
         title_align: left
         content: >-
