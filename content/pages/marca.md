@@ -61,9 +61,9 @@ sections:
         image: /images/ajustes-de-seguridad.png
       - title: Tecnología y Datos
         subtitle: >-
-          Te damos soporte durante 15 días posteriores a la entrega de la web.
-          OJO, eso no significa que desaparezcamos luego, al contrario, te lo
-          explico abajo.
+          Consultoría de análisis de datos DBUX (Data-based User Experience)
+          Tecnología aplicada a la experiencia de usuario Experiencias en tiempo
+          real
         title_align: center
         content_align: left
         actions: []
