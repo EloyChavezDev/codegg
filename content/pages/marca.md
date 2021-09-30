@@ -186,8 +186,8 @@ sections:
         image: /images/analytics.png
       - title: SOCIAL ENGAGEMENT
         subtitle: >-
-          Vincularé la web con tus redes sociales, Twitter, Instagram, YouTube,
-          Facebook, LinkedIn, etc.
+          Le brindamos atención a tus clientes en los canales digitales e
+          interactuamos con ellos de una manera divertida y efectiva.
         title_align: center
         content: |
           ##
