@@ -279,7 +279,6 @@ sections:
     has_border: false
     background_color: secondary
   - section_id: lorem-ipsum
-    title: Algu
     actions: []
     grid_items:
       - title: "\U0001F423 Starter"
