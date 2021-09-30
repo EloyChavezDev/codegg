@@ -15,7 +15,7 @@ sections:
         subtitle: Ideal para evitar fallos en tu equipo
         title_align: left
         content: |
-
+          ### Hola
 
           *   Optimización del sistema.
 
