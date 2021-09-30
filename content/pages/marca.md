@@ -284,18 +284,12 @@ sections:
       - title: "\U0001F423 Starter"
         subtitle: ideal para comenzar
         title_align: left
-        content: |
+        content: >
           ***
 
-          *   Adaptable a cualquier dispositivo.
 
-          *   5 secciones
-
-          *   formulario de contacto.
-
-          *   Galería de imágenes.
-
-          *   Redes sociales.
+          *   *   4 Publicaciones al mes en otra red social*   Compartir con mas
+          de 10,000 personas
         content_align: left
         actions: []
         actions_align: left
