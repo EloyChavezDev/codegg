@@ -328,29 +328,20 @@ sections:
       - title: "\U0001F413  Premium"
         subtitle: Haz que te recuerden siempre
         title_align: left
-        content: |+
-          ***
-
-          *   Adaptable a cualquier dispositivo.
-
-          *   5 secciones
-
-          *   formulario de contacto.
-
-          *   Galería de imágenes.
-
-          *   Redes sociales.
-
-          *   2 entradas para tu blog.
-
-          *   Carrito de compras
-
-          *   Autoadministrable
+        content: |
 
 
+          *   15 Publicaciones durante un mes en Facebook
 
-          <!---->
+          *   15 Publicaciones al mes en Twitter o Instagram
 
+          *   15 Publicaciones al mes en otra red social de tu preferencia.
+
+          *   Compartir con mas de 10,000 personas
+
+          *   Alta en Directorios
+
+          *   2 Entrada al blog mensual
         content_align: left
         actions: []
         actions_align: left
