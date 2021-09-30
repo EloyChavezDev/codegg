@@ -286,6 +286,7 @@ sections:
         title_align: left
         content: |
         ***
+        
           *   Adaptable a cualquier dispositivo.
 
           *   5 secciones
