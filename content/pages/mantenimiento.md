@@ -17,6 +17,8 @@ sections:
         content: |
 
 
+
+
           *   Optimización del sistema.
 
           *   Instalación de programas con licencia.
