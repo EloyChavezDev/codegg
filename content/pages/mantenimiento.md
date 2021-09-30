@@ -16,7 +16,8 @@ sections:
         title_align: left
         content: |
           ***
-          ### \*\*\*$ 4500
+
+          ### $ 4500
 
           *   Optimización del sistema.
 
