@@ -139,8 +139,8 @@ sections:
         image: /images/web-responsive.png
       - title: CENTRAL DE MEDIOS
         subtitle: >-
-          Imprescindible para cualquier web hoy en día. Sin él tu web se
-          mostrará como no segura a los usuarios.
+          Impulsamos tu marca, servicio o producto al posicionarlo en los medios
+          idóneos para tu industria, de acuerdo con los objetivos de tu negocio.
         title_align: center
         content_align: left
         actions: []
