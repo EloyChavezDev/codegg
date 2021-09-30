@@ -59,7 +59,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/ajustes-de-seguridad.png
-      - title: Soporte durante 15 días
+      - title: Tecnología y Datos
         subtitle: >-
           Te damos soporte durante 15 días posteriores a la entrega de la web.
           OJO, eso no significa que desaparezcamos luego, al contrario, te lo
