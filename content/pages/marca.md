@@ -333,7 +333,7 @@ sections:
         image_width: fourty
         image_align: left
         image_has_padding: false
-      - title: "\U0001F413 E-Coomerce"
+      - title: "\U0001F413  Premium"
         subtitle: Tu negocio disponible las 24 hrs.
         title_align: left
         content: |+
