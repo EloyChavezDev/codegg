@@ -63,7 +63,7 @@ sections:
         content_align: left
         actions:
           - label: Ver Detalles
-            url: /marketing
+            url: /marca
             style: primary
             has_icon: false
             icon: arrow-right
