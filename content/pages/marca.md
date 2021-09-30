@@ -170,8 +170,9 @@ sections:
         image: /images/email-con-dominio-propio.png
       - title: CREATIVIDAD
         subtitle: >-
-          Conectaré tu web con Google Analytics y Search Console para que puedas
-          ver las visitas y otros datos.
+          Creamos campañas con mensajes poderosos a través de conceptos
+          integrales que conectan con tu audiencia y refuerzan los mensajes de
+          tu marca.
         title_align: center
         content_align: left
         actions: []
