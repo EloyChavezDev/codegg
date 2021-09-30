@@ -15,10 +15,6 @@ sections:
         subtitle: Ideal para evitar fallos en tu equipo
         title_align: left
         content: |
-          ***
-
-          ### $ 500 MXN
-
           *   Optimización del sistema.
 
           *   Instalación de programas con licencia.
