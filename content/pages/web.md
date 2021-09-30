@@ -284,17 +284,16 @@ sections:
       - title: "\U0001F423 Starter"
         subtitle: Inicia tu presencia en internet
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Adaptable a cualquier dispositivo.
 
+          *   5 secciones
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   formulario de contacto.
 
+          *   Galería de imágenes.
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Redes sociales.
         content_align: left
         actions: []
         actions_align: left
