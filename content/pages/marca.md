@@ -334,7 +334,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F413  Premium"
-        subtitle: Tu negocio disponible las 24 hrs.
+        subtitle: 'Haz que te '
         title_align: left
         content: |+
           ***
