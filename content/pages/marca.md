@@ -287,9 +287,13 @@ sections:
         content: |
           ***
 
-          *   Plan de medios para amplificación del contenido
+          *   ***4 Publicaciones al mes en Facebook.***
 
-          *   Producción de contenido digital en diversos formatos
+          *   ***4 Publicaciones al mes en Twitter o Instagram.***
+
+          *   ***4 Publicaciones al mes en otra red social de tu preferencia.***
+
+          *   ***Compartir con mas de 10,000 personas.***
         content_align: left
         actions: []
         actions_align: left
