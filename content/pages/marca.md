@@ -154,8 +154,9 @@ sections:
         image: /images/ssl.png
       - title: DATA Y ANALYTICS
         subtitle: >-
-          Te crearemos las cuentas que necesites con el dominio de tu página.
-          Ejemplo: info@nombreweb.com
+          nuestro equipo analiza y supervisa el rendimiento de tus campañas y
+          contenidos para convertir los datos en aprendizajes que impulsen el
+          crecimiento de tu marca.
         title_align: center
         content_align: left
         actions: []
