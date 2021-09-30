@@ -278,7 +278,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-  - section_id: lorem-ipsum
+  - section_id: Opciones
     actions: []
     grid_items:
       - title: "\U0001F423 Starter"
