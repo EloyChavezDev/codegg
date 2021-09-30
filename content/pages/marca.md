@@ -306,7 +306,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F424 Pro"
-        subtitle: La mejor opción para iniciar tu proyecto
+        subtitle: La mejor opción para impulsar tu negocio
         title_align: left
         content: |
           ***
