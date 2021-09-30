@@ -334,7 +334,7 @@ sections:
         subtitle: Tu negocio disponible las 24 hrs.
         title_align: left
         content: >-
-          
+          ***
           
           ## Lorem ipsum
 
