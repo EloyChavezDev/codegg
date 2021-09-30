@@ -21,9 +21,7 @@ sections:
     actions: []
     grid_items:
       - title: Consultoría de Marca
-        subtitle: >-
-          Te enseñaré como gestionar tu página web para que no dependas de nadie
-          si necesitas hacer alguna modificación.
+        subtitle: Consultoría de posicionamiento de marcaInmersión en tendencias
         title_align: center
         content_align: center
         actions: []
