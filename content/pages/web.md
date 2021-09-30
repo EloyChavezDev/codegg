@@ -382,7 +382,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: Elige como quieres comoenzar a
+    title: 'Elige como quieres comoenzar a '
   - section_id: Presupuesto
     title_align: center
     content_align: center
