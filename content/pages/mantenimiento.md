@@ -15,6 +15,8 @@ sections:
         subtitle: Ideal para evitar fallos en tu equipo
         title_align: left
         content: |
+
+
           ### $ 4500
 
           *   Optimización del sistema.
