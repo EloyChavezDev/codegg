@@ -326,6 +326,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: true
+        image: /images/Add to Cart-amico (1).svg
       - title: "\U0001F413 E-Coomerce"
         subtitle: Tu negocio disponible las 24 hrs.
         title_align: left
