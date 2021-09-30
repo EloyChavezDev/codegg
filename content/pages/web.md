@@ -313,9 +313,9 @@ sections:
 
           *   Adaptable a cualquier dispositivo.
 
-          *   5 secciones
+          *   5 a 10 secciones
 
-          *   formulario de contacto.
+          *   2 formulario de contacto.
 
           *   Galería de imágenes.
 
