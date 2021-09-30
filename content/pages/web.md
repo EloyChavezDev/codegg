@@ -336,7 +336,7 @@ sections:
       - title: "\U0001F413 E-Coomerce"
         subtitle: Tu negocio disponible las 24 hrs.
         title_align: left
-        content: |
+        content: |+
           ***
 
           *   Adaptable a cualquier dispositivo.
@@ -348,6 +348,17 @@ sections:
           *   Galería de imágenes.
 
           *   Redes sociales.
+
+          *   2 entradas para tu blog.
+
+          *   Carrito de compras
+
+          *   Autoadministrable
+
+
+
+          <!---->
+
         content_align: left
         actions: []
         actions_align: left
