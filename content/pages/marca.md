@@ -365,7 +365,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: "Elige como quieres comenzar a incubar tu proyecto \U0001F95A"
+    title: "Elige como quieres comenzar a incubar tu maca profesional \U0001F95A"
   - section_id: Presupuesto
     title_align: center
     content_align: center
