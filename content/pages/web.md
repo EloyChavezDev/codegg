@@ -286,7 +286,7 @@ sections:
         title_align: left
         content: |
           ***
-          
+
           *   Adaptable a cualquier dispositivo.
 
           *   5 secciones
@@ -309,6 +309,7 @@ sections:
         subtitle: La mejor opción para iniciar tu proyecto
         title_align: left
         content: >-
+          
           ## Lorem ipsum
 
 
