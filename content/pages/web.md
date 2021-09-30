@@ -328,7 +328,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: "\U0001F413 E-Coomerce"
-        subtitle: Tu negocio disponible 24/7
+        subtitle: Tu negocio disponible las 24 hrs.
         title_align: left
         content: >-
           ## Lorem ipsum
