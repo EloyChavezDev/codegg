@@ -322,6 +322,8 @@ sections:
           *   Redes sociales.
 
           *   2 entradas para tu blog
+
+          *   Autoadministrable
         content_align: left
         actions: []
         actions_align: left
