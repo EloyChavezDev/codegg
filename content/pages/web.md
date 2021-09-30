@@ -320,6 +320,8 @@ sections:
           *   Galería de imágenes.
 
           *   Redes sociales.
+
+          *   2 entradas para tu blog
         content_align: left
         actions: []
         actions_align: left
