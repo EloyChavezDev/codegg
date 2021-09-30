@@ -282,7 +282,7 @@ sections:
     actions: []
     grid_items:
       - title: "\U0001F423 Starter"
-        subtitle: Inicia tu presencia en internet
+        subtitle: ideal para comenzar
         title_align: left
         content: |
           ***
