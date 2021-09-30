@@ -277,7 +277,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: secondary
+    background_color: red
   - section_id: Opciones
     actions: []
     grid_items:
