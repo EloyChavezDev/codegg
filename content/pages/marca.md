@@ -122,7 +122,7 @@ sections:
   - title: Incluimos herramientas que nuestros competidores cobran por separado
     actions: []
     grid_items:
-      - title: Web adaptada a móviles
+      - title: CONTENIDOS DIGITALES
         subtitle: >-
           Es algo que se debería de dar por hecho hoy en día, pero te lo
           confirmo para que no tengas dudas.
