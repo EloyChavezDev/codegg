@@ -307,11 +307,11 @@ sections:
         content: |
           ***
 
-          *   15 Publicaciones al mes en Facebook.
+          *   6 Publicaciones al mes en Facebook.
 
-          *   8 Publicaciones al mes en Twitter o Instagram.
+          *   6 Publicaciones al mes en Twitter o Instagram.
 
-          *   8 Publicaciones al mes en otra red social de tu preferencia.
+          *   6 Publicaciones al mes en otra red social de tu preferencia.
 
           *   Compartir con mas de 10,000 personas
 
