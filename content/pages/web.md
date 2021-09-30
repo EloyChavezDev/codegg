@@ -280,7 +280,6 @@ sections:
     background_color: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: "\U0001F423 Starter"
