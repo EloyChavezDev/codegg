@@ -21,7 +21,7 @@ sections:
     actions: []
     grid_items:
       - title: Consultoría de Marca
-        subtitle: Consultoría de posicionamiento de marcaInmersión en tendencias
+        subtitle: Consultoría de posicionamiento de marca e Inmersión en tendencias
         title_align: center
         content_align: center
         actions: []
