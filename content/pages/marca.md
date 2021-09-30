@@ -152,7 +152,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/ssl.png
-      - title: Correo con tu dominio
+      - title: DATA Y ANALYTICS
         subtitle: >-
           Te crearemos las cuentas que necesites con el dominio de tu página.
           Ejemplo: info@nombreweb.com
