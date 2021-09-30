@@ -305,7 +305,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        background_color: red
       - title: "\U0001F424 Pro"
         subtitle: La mejor opción para iniciar tu proyecto
         title_align: left
