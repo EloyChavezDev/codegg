@@ -282,7 +282,7 @@ sections:
     actions: []
     grid_items:
       - title: "\U0001F423 Starter"
-        subtitle: La mejor opción para iniciar
+        subtitle: Inicia tu p
         title_align: left
         content: >-
           ## Lorem ipsum
