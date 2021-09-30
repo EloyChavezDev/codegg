@@ -20,7 +20,7 @@ sections:
     title: ¿Qué incluye nuestro servicio que nos hace diferentes?
     actions: []
     grid_items:
-      - title: La formación
+      - title: Consultoría de Marca
         subtitle: >-
           Te enseñaré como gestionar tu página web para que no dependas de nadie
           si necesitas hacer alguna modificación.
