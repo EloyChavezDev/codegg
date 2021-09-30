@@ -14,7 +14,7 @@ sections:
       - title: "\U0001F423\_Preventivo"
         subtitle: Ideal para evitar fallos en tu equipo
         title_align: left
-        content: "\_\\&nbsp;\n\n\n*   Optimización del sistema.\n\n*   Instalación de programas con licencia.\n\n*   Limpieza de software malintencionado.\n\n*   Respaldo del sistema operativo\n\n*   Atención a domicilio o remota\n\n*   Costo por Hora\n"
+        content: "\n\n\_\\&nbsp;\n\n*   Optimización del sistema.\n\n*   Instalación de programas con licencia.\n\n*   Limpieza de software malintencionado.\n\n*   Respaldo del sistema operativo\n\n*   Atención a domicilio o remota\n\n*   Costo por Hora\n"
         content_align: left
         actions:
           - label: Contratar Preventivo
