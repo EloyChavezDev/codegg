@@ -331,7 +331,7 @@ sections:
         content: |
         ***
 
-          
+          ***
           *   15 Publicaciones durante un mes en Facebook
 
           *   15 Publicaciones al mes en Twitter o Instagram
