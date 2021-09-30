@@ -309,6 +309,7 @@ sections:
         subtitle: La mejor opción para iniciar tu proyecto
         title_align: left
         content: >-
+          ***
           
           ## Lorem ipsum
 
