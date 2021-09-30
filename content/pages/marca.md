@@ -137,7 +137,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/web-responsive.png
-      - title: Certificado SSL (HTTPS)
+      - title: CENTRAL DE MEDIOS
         subtitle: >-
           Imprescindible para cualquier web hoy en día. Sin él tu web se
           mostrará como no segura a los usuarios.
