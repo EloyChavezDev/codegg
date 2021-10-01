@@ -203,8 +203,9 @@ sections:
         image: /images/enalces-redes-sociales.png
       - title: ESTRATEGIA & CONSULTORÍA
         subtitle: >-
-          Podrás modificar el contenido de tu web cuando quieras de forma
-          sencilla sin depender de nadie.
+          Danos un objetivo de negocio y nosotros crearemos una estrategia
+          integral para tu marca con la ayuda de un equipo especializado y
+          herramientas de investigación y planificación.
         title_align: center
         content_align: left
         actions: []
