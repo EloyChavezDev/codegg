@@ -201,7 +201,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/enalces-redes-sociales.png
-      - title: Autoadministrable
+      - title: ESTRATEGIA & CONSULTORÍA
         subtitle: >-
           Podrás modificar el contenido de tu web cuando quieras de forma
           sencilla sin depender de nadie.
