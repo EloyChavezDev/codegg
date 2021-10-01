@@ -204,8 +204,7 @@ sections:
       - title: ESTRATEGIA & CONSULTORÍA
         subtitle: >-
           Danos un objetivo de negocio y nosotros crearemos una estrategia
-          integral para tu marca con la ayuda de un equipo especializado y
-          herramientas de investigación y planificación.
+          integral para tu marca con la ayuda de un equipo especializado.
         title_align: center
         content_align: left
         actions: []
